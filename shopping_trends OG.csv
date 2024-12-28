@@ -1,0 +1,1001 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Season,Review Rating,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Frequency of Purchases
+2471,55,Male,Blouse,Clothing,72,Fall,2.7,Next Day Air,No,No,29,Fortnightly
+174,25,Male,Hat,Accessories,46,Fall,3.4,Standard,Yes,Yes,30,Annually
+1230,34,Male,Jewelry,Accessories,52,Winter,3.6,Express,Yes,Yes,39,Annually
+2141,53,Male,Handbag,Accessories,90,Fall,3.7,Standard,No,No,36,Fortnightly
+1200,49,Male,Sandals,Footwear,89,Fall,4.5,Free Shipping,Yes,Yes,3,Weekly
+2498,35,Male,Backpack,Accessories,40,Summer,4.2,Standard,No,No,28,Annually
+368,52,Male,Dress,Clothing,40,Spring,2.8,Store Pickup,Yes,Yes,18,Monthly
+2135,55,Male,Sandals,Footwear,41,Winter,2.9,Standard,No,No,35,Fortnightly
+2342,56,Male,Jacket,Outerwear,31,Summer,4.5,Express,No,No,22,Every 3 Months
+408,45,Male,Hoodie,Clothing,76,Spring,3.1,Next Day Air,Yes,Yes,5,Bi-Weekly
+2393,40,Male,Jeans,Clothing,62,Spring,2.6,2-Day Shipping,No,No,36,Annually
+786,46,Male,Shorts,Clothing,62,Spring,4,Next Day Air,Yes,Yes,37,Fortnightly
+1819,58,Male,Sunglasses,Accessories,39,Fall,3.8,Express,No,No,47,Every 3 Months
+760,51,Male,Dress,Clothing,49,Winter,2.6,Next Day Air,Yes,Yes,25,Fortnightly
+71,22,Male,Belt,Accessories,29,Fall,4.2,Express,Yes,Yes,32,Every 3 Months
+1094,60,Male,Sneakers,Footwear,48,Winter,4.2,2-Day Shipping,Yes,Yes,46,Every 3 Months
+74,48,Male,Pants,Clothing,85,Spring,2.7,Free Shipping,Yes,Yes,43,Bi-Weekly
+2262,58,Male,Backpack,Accessories,76,Spring,4.4,Standard,No,No,12,Fortnightly
+1072,61,Male,Hat,Accessories,81,Summer,2.6,Express,Yes,Yes,46,Monthly
+1789,66,Male,Blouse,Clothing,41,Summer,3.1,Store Pickup,No,No,23,Bi-Weekly
+742,22,Male,T-shirt,Clothing,79,Summer,4.7,Free Shipping,Yes,Yes,23,Every 3 Months
+991,48,Male,Sunglasses,Accessories,63,Spring,4.8,Store Pickup,Yes,Yes,24,Weekly
+415,29,Male,Backpack,Accessories,88,Winter,2.6,Store Pickup,Yes,Yes,30,Weekly
+290,49,Male,Coat,Outerwear,85,Fall,4.5,2-Day Shipping,Yes,Yes,26,Monthly
+297,25,Male,Sandals,Footwear,74,Spring,4.8,2-Day Shipping,Yes,Yes,19,Weekly
+255,67,Male,Sunglasses,Accessories,42,Winter,3.5,Store Pickup,Yes,Yes,4,Bi-Weekly
+176,53,Male,Coat,Outerwear,86,Fall,2.8,Next Day Air,Yes,Yes,2,Annually
+2381,41,Male,Scarf,Accessories,66,Fall,2.5,Next Day Air,No,No,36,Fortnightly
+2137,47,Male,Sunglasses,Accessories,93,Summer,2.8,Standard,No,No,25,Fortnightly
+1551,66,Male,Sunglasses,Accessories,26,Summer,2.8,Free Shipping,Yes,Yes,40,Quarterly
+1892,69,Male,Jewelry,Accessories,74,Summer,2.6,Next Day Air,No,No,48,Quarterly
+1835,49,Male,Skirt,Clothing,35,Summer,4.1,2-Day Shipping,No,No,39,Fortnightly
+2619,70,Male,Handbag,Accessories,77,Fall,4.1,Express,No,No,12,Monthly
+33,36,Male,Jacket,Outerwear,67,Summer,4.9,Free Shipping,Yes,Yes,37,Annually
+2459,66,Male,T-shirt,Clothing,85,Fall,4.6,Free Shipping,No,No,17,Weekly
+222,28,Male,Hat,Accessories,68,Summer,4.4,Store Pickup,Yes,Yes,6,Quarterly
+125,44,Male,Sweater,Clothing,86,Spring,3.1,Next Day Air,Yes,Yes,50,Annually
+1217,62,Male,Pants,Clothing,32,Summer,3.7,Free Shipping,Yes,Yes,3,Every 3 Months
+2551,53,Male,Boots,Footwear,52,Fall,3,Store Pickup,No,No,30,Fortnightly
+510,41,Male,T-shirt,Clothing,80,Summer,3.9,Free Shipping,Yes,Yes,17,Weekly
+1852,28,Male,Skirt,Clothing,80,Fall,3.1,Free Shipping,No,No,4,Fortnightly
+2014,39,Male,Backpack,Accessories,70,Winter,4.9,Standard,No,No,25,Quarterly
+2583,19,Male,Dress,Clothing,98,Fall,3.6,2-Day Shipping,No,No,4,Every 3 Months
+1809,67,Male,Jacket,Outerwear,71,Spring,4.3,Next Day Air,No,No,7,Monthly
+1287,40,Male,Gloves,Accessories,49,Winter,4.9,Next Day Air,Yes,Yes,44,Fortnightly
+2426,58,Male,Shoes,Footwear,49,Summer,3,2-Day Shipping,No,No,34,Quarterly
+1897,57,Male,Sandals,Footwear,51,Fall,2.9,Standard,No,No,19,Monthly
+2510,19,Male,Socks,Clothing,48,Spring,4.4,Free Shipping,No,No,9,Quarterly
+2108,46,Male,Pants,Clothing,75,Winter,3.3,Standard,No,No,35,Quarterly
+2597,63,Male,Shirt,Clothing,78,Spring,3,Next Day Air,No,No,35,Monthly
+499,43,Male,Boots,Footwear,78,Spring,3.6,Free Shipping,Yes,Yes,27,Monthly
+891,52,Male,Gloves,Accessories,51,Spring,4.3,2-Day Shipping,Yes,Yes,47,Monthly
+451,25,Male,Boots,Footwear,21,Summer,2.7,Store Pickup,Yes,Yes,19,Monthly
+2612,33,Male,Jacket,Outerwear,99,Fall,4.2,2-Day Shipping,No,No,4,Fortnightly
+2189,41,Male,Coat,Outerwear,54,Winter,4.7,Next Day Air,No,No,9,Weekly
+462,18,Male,Boots,Footwear,93,Winter,3.9,Express,Yes,Yes,20,Weekly
+2296,50,Male,Hat,Accessories,22,Spring,2.9,2-Day Shipping,No,No,45,Quarterly
+1770,32,Male,Socks,Clothing,75,Winter,4.3,Free Shipping,No,No,45,Monthly
+234,19,Male,Sweater,Clothing,83,Fall,4.5,Next Day Air,Yes,Yes,27,Every 3 Months
+403,31,Male,Backpack,Accessories,78,Fall,3,Express,Yes,Yes,26,Monthly
+612,43,Male,Scarf,Accessories,33,Winter,4.7,Store Pickup,Yes,Yes,19,Monthly
+2040,35,Male,T-shirt,Clothing,51,Spring,3.1,Next Day Air,No,No,31,Bi-Weekly
+2171,40,Male,Sweater,Clothing,32,Fall,4,Next Day Air,No,No,37,Every 3 Months
+2413,53,Male,Jacket,Outerwear,51,Winter,4.3,2-Day Shipping,No,No,8,Bi-Weekly
+45,39,Male,Hat,Accessories,53,Summer,4.6,Free Shipping,Yes,Yes,45,Weekly
+57,41,Male,Backpack,Accessories,73,Summer,4.7,Store Pickup,Yes,Yes,46,Weekly
+987,54,Male,Scarf,Accessories,96,Spring,4.5,Store Pickup,Yes,Yes,36,Monthly
+837,23,Male,Gloves,Accessories,90,Winter,3.9,Store Pickup,Yes,Yes,22,Bi-Weekly
+1855,25,Male,Sweater,Clothing,61,Spring,3.8,Express,No,No,49,Annually
+1973,54,Male,Backpack,Accessories,31,Summer,3.3,Express,No,No,48,Every 3 Months
+355,58,Male,Jewelry,Accessories,76,Fall,3,Free Shipping,Yes,Yes,42,Weekly
+1267,20,Male,Blouse,Clothing,31,Fall,4,Standard,Yes,Yes,14,Every 3 Months
+1518,57,Male,Gloves,Accessories,41,Spring,3.4,Standard,Yes,Yes,12,Quarterly
+1037,68,Male,Handbag,Accessories,47,Fall,3.7,2-Day Shipping,Yes,Yes,13,Monthly
+1701,62,Male,Hoodie,Clothing,70,Fall,4.1,Express,No,No,36,Monthly
+2564,69,Male,Backpack,Accessories,81,Winter,4.5,Standard,No,No,1,Every 3 Months
+2126,57,Male,Coat,Outerwear,87,Fall,4.8,Store Pickup,No,No,31,Quarterly
+434,49,Male,Skirt,Clothing,92,Fall,3.2,Store Pickup,Yes,Yes,23,Fortnightly
+788,53,Male,Handbag,Accessories,85,Spring,3.7,Free Shipping,Yes,Yes,25,Weekly
+858,43,Male,Shorts,Clothing,60,Fall,3,Standard,Yes,Yes,50,Every 3 Months
+706,25,Male,Pants,Clothing,90,Summer,4.5,Free Shipping,Yes,Yes,49,Quarterly
+1201,27,Male,Coat,Outerwear,22,Winter,4.4,Store Pickup,Yes,Yes,7,Weekly
+465,23,Male,Sunglasses,Accessories,52,Winter,4.7,Next Day Air,Yes,Yes,45,Monthly
+1382,30,Male,Shoes,Footwear,86,Winter,2.9,Standard,Yes,Yes,48,Quarterly
+917,49,Male,Jeans,Clothing,34,Spring,2.7,Standard,Yes,Yes,16,Monthly
+2491,52,Male,Blouse,Clothing,78,Spring,4,Free Shipping,No,No,5,Every 3 Months
+2379,26,Male,Scarf,Accessories,71,Summer,2.7,Store Pickup,No,No,37,Bi-Weekly
+1279,28,Male,Shorts,Clothing,98,Fall,2.8,Next Day Air,Yes,Yes,31,Fortnightly
+701,57,Male,Pants,Clothing,79,Winter,4.1,Standard,Yes,Yes,5,Monthly
+1926,59,Male,Sneakers,Footwear,32,Winter,2.9,Express,No,No,44,Fortnightly
+1478,24,Male,Belt,Accessories,32,Summer,4.3,Standard,Yes,Yes,1,Every 3 Months
+1180,20,Male,T-shirt,Clothing,33,Summer,2.8,Free Shipping,Yes,Yes,44,Annually
+421,32,Male,Socks,Clothing,54,Spring,3.8,Free Shipping,Yes,Yes,18,Bi-Weekly
+597,23,Male,Shoes,Footwear,37,Summer,4.5,Store Pickup,Yes,Yes,36,Annually
+2429,65,Male,T-shirt,Clothing,38,Spring,4.4,Next Day Air,No,No,34,Annually
+1242,58,Male,Hoodie,Clothing,51,Winter,3.1,Express,Yes,Yes,34,Weekly
+924,55,Male,Shirt,Clothing,24,Spring,4.2,2-Day Shipping,Yes,Yes,7,Weekly
+2586,57,Male,Sunglasses,Accessories,37,Fall,4.4,Free Shipping,No,No,19,Weekly
+1377,57,Male,Sandals,Footwear,65,Spring,5,Free Shipping,Yes,Yes,24,Annually
+2255,24,Male,Belt,Accessories,79,Winter,4.2,Store Pickup,No,No,44,Every 3 Months
+1563,37,Male,Scarf,Accessories,75,Winter,3.2,Next Day Air,Yes,Yes,23,Bi-Weekly
+1335,46,Male,Coat,Outerwear,52,Spring,4.2,Store Pickup,Yes,Yes,12,Monthly
+980,64,Male,Hat,Accessories,33,Fall,3.5,Store Pickup,Yes,Yes,34,Monthly
+2298,60,Male,Socks,Clothing,83,Summer,4.7,Standard,No,No,1,Quarterly
+1447,63,Male,Jeans,Clothing,35,Summer,3.2,Express,Yes,Yes,6,Quarterly
+171,52,Male,Shirt,Clothing,25,Fall,2.6,Store Pickup,Yes,Yes,46,Bi-Weekly
+2294,37,Male,Sweater,Clothing,68,Fall,3.3,Express,No,No,16,Every 3 Months
+1338,37,Male,Sweater,Clothing,86,Spring,3.4,Express,Yes,Yes,19,Bi-Weekly
+2465,47,Male,Jacket,Outerwear,84,Winter,2.8,Express,No,No,4,Bi-Weekly
+1663,63,Male,Sunglasses,Accessories,24,Winter,4.6,Free Shipping,Yes,Yes,46,Fortnightly
+2072,69,Male,Jacket,Outerwear,100,Fall,4.8,Store Pickup,No,No,37,Quarterly
+1829,33,Male,Coat,Outerwear,80,Spring,3.9,Express,No,No,45,Every 3 Months
+437,40,Male,Pants,Clothing,46,Summer,4.6,Free Shipping,Yes,Yes,41,Weekly
+2158,41,Male,Handbag,Accessories,68,Winter,4,Next Day Air,No,No,41,Fortnightly
+875,25,Male,Jacket,Outerwear,65,Fall,4.4,Free Shipping,Yes,Yes,10,Every 3 Months
+1750,43,Male,Hoodie,Clothing,70,Fall,3.2,2-Day Shipping,No,No,36,Every 3 Months
+1561,57,Male,Hat,Accessories,84,Winter,3.8,Free Shipping,Yes,Yes,3,Weekly
+977,34,Male,T-shirt,Clothing,90,Fall,3.6,Express,Yes,Yes,50,Every 3 Months
+762,57,Male,Jewelry,Accessories,91,Fall,4.2,Express,Yes,Yes,26,Weekly
+1042,36,Male,Shirt,Clothing,25,Summer,4.9,Next Day Air,Yes,Yes,11,Fortnightly
+1243,56,Male,Socks,Clothing,27,Summer,4,Next Day Air,Yes,Yes,15,Quarterly
+240,49,Male,Pants,Clothing,51,Summer,2.9,Express,Yes,Yes,47,Bi-Weekly
+2480,37,Male,Dress,Clothing,98,Fall,4.2,Standard,No,No,26,Every 3 Months
+1713,65,Male,T-shirt,Clothing,87,Fall,3.8,2-Day Shipping,No,No,9,Fortnightly
+2128,70,Male,Boots,Footwear,45,Spring,4.5,2-Day Shipping,No,No,40,Weekly
+444,22,Male,Sunglasses,Accessories,67,Summer,3.6,Free Shipping,Yes,Yes,24,Annually
+1749,34,Male,Skirt,Clothing,93,Winter,3.9,2-Day Shipping,No,No,41,Annually
+1126,27,Male,Sandals,Footwear,90,Summer,2.7,2-Day Shipping,Yes,Yes,10,Weekly
+1898,53,Male,Sunglasses,Accessories,97,Winter,2.9,Free Shipping,No,No,11,Fortnightly
+2030,25,Male,Scarf,Accessories,23,Spring,4.6,Next Day Air,No,No,40,Quarterly
+2423,30,Male,Jewelry,Accessories,82,Winter,4.8,Store Pickup,No,No,45,Weekly
+1612,41,Male,Pants,Clothing,26,Winter,4.5,Next Day Air,Yes,Yes,6,Monthly
+868,37,Male,Jacket,Outerwear,20,Spring,3.1,Free Shipping,Yes,Yes,23,Fortnightly
+1519,68,Male,Belt,Accessories,73,Winter,4.1,Next Day Air,Yes,Yes,14,Fortnightly
+480,39,Male,Handbag,Accessories,84,Winter,3.3,Store Pickup,Yes,Yes,43,Monthly
+271,33,Male,Jeans,Clothing,52,Fall,4.6,Free Shipping,Yes,Yes,16,Annually
+2383,39,Male,Sweater,Clothing,60,Spring,3.9,Express,No,No,44,Weekly
+44,25,Male,Scarf,Accessories,69,Fall,3.7,Store Pickup,Yes,Yes,19,Fortnightly
+1565,22,Male,Backpack,Accessories,33,Summer,4.5,Next Day Air,Yes,Yes,30,Every 3 Months
+802,25,Male,Belt,Accessories,29,Fall,4.9,Express,Yes,Yes,12,Fortnightly
+842,55,Male,Sweater,Clothing,88,Summer,2.6,Store Pickup,Yes,Yes,28,Fortnightly
+1369,21,Male,Shirt,Clothing,36,Summer,4.9,Express,Yes,Yes,2,Weekly
+464,37,Male,Jewelry,Accessories,81,Summer,2.7,Standard,Yes,Yes,29,Weekly
+892,20,Male,Skirt,Clothing,26,Summer,3.9,Store Pickup,Yes,Yes,24,Every 3 Months
+299,69,Male,T-shirt,Clothing,53,Winter,4,Standard,Yes,Yes,11,Every 3 Months
+867,67,Male,Sunglasses,Accessories,69,Summer,2.7,Free Shipping,Yes,Yes,11,Bi-Weekly
+322,41,Male,Sneakers,Footwear,36,Summer,4.7,Free Shipping,Yes,Yes,48,Quarterly
+768,27,Male,Coat,Outerwear,77,Fall,2.5,Next Day Air,Yes,Yes,11,Annually
+2031,66,Male,Sunglasses,Accessories,67,Summer,2.8,Standard,No,No,38,Monthly
+1676,35,Male,Pants,Clothing,90,Spring,4.7,Next Day Air,Yes,Yes,21,Annually
+319,45,Male,Backpack,Accessories,67,Winter,2.5,Standard,Yes,Yes,10,Annually
+1450,18,Male,Socks,Clothing,41,Winter,2.5,Store Pickup,Yes,Yes,20,Every 3 Months
+1001,43,Male,Socks,Clothing,46,Winter,3.9,Express,Yes,Yes,1,Bi-Weekly
+1922,47,Male,Shirt,Clothing,36,Fall,3.5,Store Pickup,No,No,13,Annually
+1963,40,Male,Hat,Accessories,45,Fall,4.4,Standard,No,No,20,Fortnightly
+1178,54,Male,Skirt,Clothing,21,Spring,4.8,Standard,Yes,Yes,24,Monthly
+212,69,Male,Skirt,Clothing,92,Fall,4.2,2-Day Shipping,Yes,Yes,45,Fortnightly
+189,50,Male,Hoodie,Clothing,53,Spring,3.1,Express,Yes,Yes,5,Bi-Weekly
+2096,36,Male,Hoodie,Clothing,63,Fall,4,Store Pickup,No,No,1,Fortnightly
+1111,28,Male,Hoodie,Clothing,61,Fall,3,Standard,Yes,Yes,31,Bi-Weekly
+2407,54,Male,Scarf,Accessories,57,Winter,4.7,Standard,No,No,26,Weekly
+1781,67,Male,Jewelry,Accessories,81,Summer,4.2,Next Day Air,No,No,49,Weekly
+1645,68,Male,Coat,Outerwear,90,Summer,3.9,Next Day Air,Yes,Yes,21,Monthly
+1768,69,Male,Jewelry,Accessories,89,Fall,3.8,2-Day Shipping,No,No,46,Fortnightly
+2419,22,Male,Pants,Clothing,69,Fall,4,Next Day Air,No,No,47,Every 3 Months
+1015,28,Male,Shoes,Footwear,97,Summer,3,Standard,Yes,Yes,36,Fortnightly
+197,38,Male,Boots,Footwear,88,Summer,3.9,Next Day Air,Yes,Yes,41,Fortnightly
+1089,49,Male,Pants,Clothing,21,Winter,2.7,Free Shipping,Yes,Yes,2,Weekly
+2396,62,Male,Blouse,Clothing,83,Winter,3.5,2-Day Shipping,No,No,47,Bi-Weekly
+2009,57,Male,Skirt,Clothing,48,Spring,2.5,Free Shipping,No,No,27,Every 3 Months
+1871,43,Male,Blouse,Clothing,99,Spring,4.3,Store Pickup,No,No,27,Fortnightly
+1740,21,Male,Jewelry,Accessories,98,Winter,4.2,Express,No,No,23,Weekly
+1026,60,Male,Shirt,Clothing,84,Winter,4.9,Free Shipping,Yes,Yes,15,Annually
+1245,70,Male,Socks,Clothing,76,Summer,3.9,2-Day Shipping,Yes,Yes,2,Monthly
+1962,47,Male,Boots,Footwear,59,Summer,2.6,Free Shipping,No,No,45,Quarterly
+1238,25,Male,Dress,Clothing,92,Spring,4.4,2-Day Shipping,Yes,Yes,42,Quarterly
+1512,34,Male,Dress,Clothing,91,Winter,3.6,Express,Yes,Yes,48,Weekly
+369,24,Male,Handbag,Accessories,39,Spring,4.5,Standard,Yes,Yes,29,Monthly
+1365,68,Male,Hat,Accessories,75,Fall,4.7,Express,Yes,Yes,5,Every 3 Months
+1831,50,Male,Sunglasses,Accessories,80,Winter,4.8,Express,No,No,7,Annually
+2609,42,Male,Jacket,Outerwear,68,Fall,4.2,2-Day Shipping,No,No,48,Fortnightly
+2285,32,Male,Blouse,Clothing,63,Fall,4.1,Express,No,No,20,Annually
+979,56,Male,Gloves,Accessories,40,Summer,2.5,Standard,Yes,Yes,33,Weekly
+2478,25,Male,Gloves,Accessories,40,Spring,3.8,2-Day Shipping,No,No,29,Weekly
+2316,69,Male,Socks,Clothing,79,Winter,3.5,2-Day Shipping,No,No,49,Quarterly
+1507,35,Male,Shirt,Clothing,30,Fall,3,2-Day Shipping,Yes,Yes,44,Quarterly
+479,35,Male,Jewelry,Accessories,43,Winter,3.2,Free Shipping,Yes,Yes,48,Annually
+2537,51,Male,Belt,Accessories,39,Spring,4.9,Express,No,No,45,Every 3 Months
+1972,54,Male,Hat,Accessories,29,Spring,3.4,Next Day Air,No,No,1,Monthly
+2414,69,Male,Shorts,Clothing,95,Fall,2.7,2-Day Shipping,No,No,30,Weekly
+1889,62,Male,Hoodie,Clothing,89,Winter,3.4,Free Shipping,No,No,48,Weekly
+472,55,Male,Scarf,Accessories,72,Winter,4.9,2-Day Shipping,Yes,Yes,36,Quarterly
+811,52,Male,Scarf,Accessories,83,Fall,4.9,Store Pickup,Yes,Yes,32,Bi-Weekly
+2146,38,Male,Skirt,Clothing,73,Winter,4.8,Standard,No,No,32,Annually
+2019,60,Male,Backpack,Accessories,97,Fall,4.5,Store Pickup,No,No,20,Weekly
+783,28,Male,Hoodie,Clothing,57,Summer,4.5,Standard,Yes,Yes,15,Weekly
+1511,55,Male,Blouse,Clothing,30,Fall,3,Free Shipping,Yes,Yes,31,Annually
+2123,32,Male,Jacket,Outerwear,36,Fall,4,Express,No,No,42,Weekly
+787,70,Male,Hat,Accessories,21,Winter,4.8,Express,Yes,Yes,16,Every 3 Months
+1610,33,Male,Shirt,Clothing,93,Fall,4.1,Standard,Yes,Yes,3,Monthly
+2563,57,Male,Shorts,Clothing,62,Spring,4.7,Standard,No,No,27,Fortnightly
+1275,54,Male,Hat,Accessories,73,Spring,3.1,2-Day Shipping,Yes,Yes,37,Quarterly
+169,34,Male,Shoes,Footwear,80,Summer,3,Express,Yes,Yes,5,Fortnightly
+1076,57,Male,Sunglasses,Accessories,50,Summer,4.9,Next Day Air,Yes,Yes,32,Bi-Weekly
+2561,58,Male,Boots,Footwear,62,Spring,2.7,Next Day Air,No,No,17,Bi-Weekly
+2573,54,Male,Blouse,Clothing,42,Fall,3.9,Next Day Air,No,No,40,Quarterly
+728,62,Male,Sweater,Clothing,97,Winter,4.8,Next Day Air,Yes,Yes,37,Every 3 Months
+2155,46,Male,Scarf,Accessories,74,Spring,3.4,Store Pickup,No,No,33,Every 3 Months
+423,47,Male,Pants,Clothing,59,Fall,3.1,Store Pickup,Yes,Yes,32,Annually
+195,51,Male,Backpack,Accessories,94,Spring,3.1,Express,Yes,Yes,15,Quarterly
+1300,29,Male,Belt,Accessories,23,Fall,3.6,2-Day Shipping,Yes,Yes,42,Bi-Weekly
+857,55,Male,Shirt,Clothing,33,Summer,3.5,Express,Yes,Yes,47,Fortnightly
+2167,31,Male,Jacket,Outerwear,88,Spring,3.5,Express,No,No,50,Bi-Weekly
+2271,27,Male,Blouse,Clothing,72,Spring,3.5,Express,No,No,7,Weekly
+2280,53,Male,Sneakers,Footwear,67,Spring,2.9,Free Shipping,No,No,35,Quarterly
+1367,45,Male,Belt,Accessories,40,Fall,3.1,Free Shipping,Yes,Yes,10,Fortnightly
+1392,53,Male,Blouse,Clothing,29,Winter,3.6,Express,Yes,Yes,38,Annually
+1979,45,Male,Sunglasses,Accessories,78,Spring,3.8,Store Pickup,No,No,1,Quarterly
+433,47,Male,Shirt,Clothing,86,Fall,3.3,Free Shipping,Yes,Yes,26,Weekly
+908,32,Male,Sweater,Clothing,43,Winter,4.4,Express,Yes,Yes,34,Bi-Weekly
+461,64,Male,Shoes,Footwear,65,Summer,3.7,Store Pickup,Yes,Yes,27,Weekly
+388,45,Male,Coat,Outerwear,93,Summer,4.6,Store Pickup,Yes,Yes,38,Fortnightly
+2300,64,Male,Coat,Outerwear,57,Summer,3.7,Store Pickup,No,No,48,Every 3 Months
+1190,64,Male,Shirt,Clothing,97,Summer,4.9,Free Shipping,Yes,Yes,28,Annually
+1284,69,Male,Shirt,Clothing,94,Winter,3.9,2-Day Shipping,Yes,Yes,23,Every 3 Months
+94,37,Male,Sweater,Clothing,62,Fall,4.5,Standard,Yes,Yes,46,Weekly
+1098,58,Male,Sunglasses,Accessories,27,Summer,3.2,Store Pickup,Yes,Yes,47,Weekly
+1593,56,Male,Shoes,Footwear,83,Summer,3.3,Free Shipping,Yes,Yes,10,Every 3 Months
+1114,28,Male,Sunglasses,Accessories,80,Summer,4.8,Next Day Air,Yes,Yes,11,Bi-Weekly
+1826,23,Male,Boots,Footwear,75,Winter,4.9,Next Day Air,No,No,41,Weekly
+1033,55,Male,Boots,Footwear,36,Fall,4,Free Shipping,Yes,Yes,44,Quarterly
+135,43,Male,Hat,Accessories,94,Fall,4.9,Store Pickup,Yes,Yes,25,Monthly
+211,45,Male,Jacket,Outerwear,22,Fall,3,2-Day Shipping,Yes,Yes,6,Fortnightly
+1030,29,Male,Gloves,Accessories,22,Spring,3.6,2-Day Shipping,Yes,Yes,33,Bi-Weekly
+440,62,Male,Jacket,Outerwear,50,Summer,3.4,Free Shipping,Yes,Yes,31,Monthly
+1751,31,Male,Sunglasses,Accessories,85,Fall,3.1,Express,No,No,38,Every 3 Months
+1733,45,Male,Belt,Accessories,50,Winter,2.6,Free Shipping,No,No,36,Every 3 Months
+901,54,Male,Hat,Accessories,98,Fall,3.3,Free Shipping,Yes,Yes,42,Quarterly
+841,42,Male,Shirt,Clothing,24,Summer,4.2,2-Day Shipping,Yes,Yes,18,Weekly
+931,26,Male,T-shirt,Clothing,78,Fall,4.5,Store Pickup,Yes,Yes,20,Bi-Weekly
+1727,57,Male,Coat,Outerwear,28,Summer,2.8,Express,No,No,45,Weekly
+283,21,Male,Skirt,Clothing,94,Summer,3,2-Day Shipping,Yes,Yes,9,Monthly
+2488,57,Male,Boots,Footwear,21,Spring,3,Next Day Air,No,No,16,Bi-Weekly
+803,38,Male,Pants,Clothing,41,Winter,3.5,Next Day Air,Yes,Yes,2,Weekly
+1085,34,Male,T-shirt,Clothing,36,Fall,4.1,Next Day Air,Yes,Yes,48,Quarterly
+2099,49,Male,T-shirt,Clothing,28,Summer,3.3,2-Day Shipping,No,No,20,Quarterly
+2003,31,Male,Shirt,Clothing,65,Summer,2.7,Express,No,No,19,Every 3 Months
+566,59,Male,Backpack,Accessories,43,Fall,4.2,Store Pickup,Yes,Yes,10,Weekly
+179,61,Male,Skirt,Clothing,43,Fall,4.3,2-Day Shipping,Yes,Yes,21,Quarterly
+1840,32,Male,Shirt,Clothing,78,Winter,3.7,Store Pickup,No,No,32,Annually
+1265,52,Male,Sweater,Clothing,92,Winter,2.5,Next Day Air,Yes,Yes,1,Bi-Weekly
+656,20,Male,Handbag,Accessories,36,Fall,3.1,Free Shipping,Yes,Yes,19,Monthly
+1952,33,Male,Gloves,Accessories,53,Summer,2.7,Next Day Air,No,No,32,Bi-Weekly
+2188,37,Male,Blouse,Clothing,78,Spring,4.4,Free Shipping,No,No,20,Annually
+2251,41,Male,Shoes,Footwear,89,Summer,4.6,Store Pickup,No,No,19,Weekly
+1846,51,Male,Sandals,Footwear,78,Winter,2.8,2-Day Shipping,No,No,39,Quarterly
+1197,30,Male,Belt,Accessories,88,Winter,3.2,2-Day Shipping,Yes,Yes,13,Bi-Weekly
+1861,18,Male,T-shirt,Clothing,64,Summer,4.8,Next Day Air,No,No,4,Monthly
+1592,18,Male,Skirt,Clothing,100,Winter,2.9,Next Day Air,Yes,Yes,24,Annually
+681,58,Male,Sneakers,Footwear,25,Spring,4.2,Express,Yes,Yes,3,Annually
+2593,23,Male,Shorts,Clothing,23,Summer,4.4,Store Pickup,No,No,13,Quarterly
+1495,43,Male,T-shirt,Clothing,76,Spring,3,Next Day Air,Yes,Yes,23,Fortnightly
+200,54,Male,Hat,Accessories,73,Summer,3.8,Express,Yes,Yes,32,Weekly
+971,45,Male,Jeans,Clothing,66,Winter,4.4,Free Shipping,Yes,Yes,4,Monthly
+2333,36,Male,Scarf,Accessories,53,Fall,2.6,Store Pickup,No,No,10,Monthly
+247,35,Male,Sunglasses,Accessories,86,Spring,3.2,Express,Yes,Yes,20,Bi-Weekly
+2115,37,Male,Shirt,Clothing,51,Winter,2.9,Standard,No,No,12,Annually
+1221,67,Male,Gloves,Accessories,64,Winter,4.9,Express,Yes,Yes,36,Quarterly
+999,51,Male,Shoes,Footwear,90,Spring,3.8,Next Day Air,Yes,Yes,48,Bi-Weekly
+568,21,Male,Blouse,Clothing,50,Winter,3,Next Day Air,Yes,Yes,24,Fortnightly
+1503,37,Male,Pants,Clothing,66,Summer,3.2,Store Pickup,Yes,Yes,20,Fortnightly
+2360,19,Male,Scarf,Accessories,81,Spring,3.3,2-Day Shipping,No,No,44,Every 3 Months
+2049,45,Male,Sneakers,Footwear,64,Winter,3.9,Express,No,No,35,Quarterly
+766,54,Male,Sneakers,Footwear,99,Summer,3,Store Pickup,Yes,Yes,13,Quarterly
+1058,65,Male,Jacket,Outerwear,23,Spring,4.4,2-Day Shipping,Yes,Yes,20,Weekly
+708,59,Male,Shirt,Clothing,38,Spring,3.7,Next Day Air,Yes,Yes,21,Annually
+2291,37,Male,Boots,Footwear,48,Winter,3.3,Standard,No,No,23,Quarterly
+1454,36,Male,Boots,Footwear,93,Winter,3.2,2-Day Shipping,Yes,Yes,41,Fortnightly
+1081,65,Male,Scarf,Accessories,59,Fall,3.8,Express,Yes,Yes,22,Every 3 Months
+105,55,Male,Sunglasses,Accessories,24,Spring,4.4,2-Day Shipping,Yes,Yes,1,Monthly
+2581,43,Male,Jeans,Clothing,29,Summer,3.6,Store Pickup,No,No,13,Quarterly
+765,55,Male,Skirt,Clothing,39,Fall,4.2,Free Shipping,Yes,Yes,6,Quarterly
+619,61,Male,Jacket,Outerwear,94,Spring,4,Express,Yes,Yes,21,Bi-Weekly
+1725,42,Male,Shoes,Footwear,72,Winter,3.3,Free Shipping,No,No,21,Weekly
+1273,35,Male,Sandals,Footwear,80,Winter,4.4,Express,Yes,Yes,16,Monthly
+1841,42,Male,Sandals,Footwear,98,Winter,2.6,Store Pickup,No,No,46,Every 3 Months
+227,29,Male,Shoes,Footwear,74,Spring,3.3,Free Shipping,Yes,Yes,5,Monthly
+232,28,Male,Blouse,Clothing,26,Spring,3.1,2-Day Shipping,Yes,Yes,18,Every 3 Months
+600,51,Male,Boots,Footwear,26,Spring,4.2,Standard,Yes,Yes,27,Every 3 Months
+1808,34,Male,Sneakers,Footwear,46,Summer,3.5,Standard,No,No,37,Fortnightly
+112,26,Male,Belt,Accessories,75,Summer,5,Free Shipping,Yes,Yes,9,Annually
+52,59,Male,Skirt,Clothing,59,Winter,4.7,2-Day Shipping,Yes,Yes,7,Quarterly
+1375,22,Male,Handbag,Accessories,97,Fall,2.7,Free Shipping,Yes,Yes,5,Quarterly
+436,51,Male,Coat,Outerwear,28,Winter,3.6,Next Day Air,Yes,Yes,42,Monthly
+1056,70,Male,Jacket,Outerwear,27,Spring,3.3,Next Day Air,Yes,Yes,24,Annually
+1360,27,Male,Hoodie,Clothing,68,Winter,4.3,Store Pickup,Yes,Yes,26,Fortnightly
+927,54,Male,Jeans,Clothing,63,Spring,4.4,Express,Yes,Yes,11,Bi-Weekly
+325,37,Male,Shirt,Clothing,82,Summer,4.8,Standard,Yes,Yes,37,Quarterly
+1515,26,Male,Shoes,Footwear,90,Winter,3.9,2-Day Shipping,Yes,Yes,1,Weekly
+2185,38,Male,Shoes,Footwear,34,Spring,3.2,Free Shipping,No,No,16,Every 3 Months
+394,33,Male,Shoes,Footwear,65,Fall,4.2,Standard,Yes,Yes,6,Fortnightly
+2605,47,Male,Sweater,Clothing,54,Spring,3.4,Store Pickup,No,No,6,Weekly
+2558,70,Male,Shorts,Clothing,23,Spring,3.9,Standard,No,No,17,Fortnightly
+2357,57,Male,Backpack,Accessories,58,Summer,3,Free Shipping,No,No,27,Quarterly
+953,36,Male,Hat,Accessories,71,Fall,3.1,2-Day Shipping,Yes,Yes,28,Monthly
+555,56,Male,Sneakers,Footwear,47,Summer,3,Express,Yes,Yes,34,Weekly
+213,67,Male,Handbag,Accessories,84,Fall,4.2,Express,Yes,Yes,7,Annually
+1739,60,Male,Handbag,Accessories,61,Spring,2.9,2-Day Shipping,No,No,37,Weekly
+650,53,Male,Pants,Clothing,93,Spring,4.2,Store Pickup,Yes,Yes,33,Every 3 Months
+2287,67,Male,Socks,Clothing,38,Spring,2.5,Store Pickup,No,No,35,Quarterly
+2282,28,Male,Hoodie,Clothing,27,Summer,3,Store Pickup,No,No,41,Annually
+2587,20,Male,Coat,Outerwear,28,Winter,4.6,Express,No,No,1,Every 3 Months
+1577,56,Male,Dress,Clothing,75,Spring,3.7,2-Day Shipping,Yes,Yes,36,Monthly
+1186,47,Male,Jeans,Clothing,64,Spring,3.9,Standard,Yes,Yes,29,Monthly
+219,28,Male,T-shirt,Clothing,45,Spring,2.9,Store Pickup,Yes,Yes,8,Quarterly
+2500,52,Male,Hoodie,Clothing,73,Summer,3.1,Next Day Air,No,No,2,Quarterly
+1252,56,Male,Shorts,Clothing,86,Spring,5,Next Day Air,Yes,Yes,43,Monthly
+633,35,Male,Backpack,Accessories,51,Winter,3.9,Next Day Air,Yes,Yes,19,Fortnightly
+1357,49,Male,Jacket,Outerwear,61,Spring,4,Free Shipping,Yes,Yes,34,Annually
+1614,26,Male,Jewelry,Accessories,31,Summer,4,Next Day Air,Yes,Yes,6,Fortnightly
+411,29,Male,Sweater,Clothing,26,Spring,4.8,2-Day Shipping,Yes,Yes,1,Quarterly
+2093,42,Male,Sandals,Footwear,45,Fall,2.6,Next Day Air,No,No,27,Weekly
+2338,39,Male,Boots,Footwear,76,Fall,3.6,Store Pickup,No,No,5,Annually
+412,59,Male,Jeans,Clothing,29,Summer,2.8,Express,Yes,Yes,15,Annually
+1526,29,Male,Belt,Accessories,31,Winter,4.6,2-Day Shipping,Yes,Yes,22,Fortnightly
+1171,57,Male,Skirt,Clothing,62,Spring,3.2,Express,Yes,Yes,33,Bi-Weekly
+2275,57,Male,Dress,Clothing,27,Spring,4.5,Next Day Air,No,No,38,Fortnightly
+2129,62,Male,Coat,Outerwear,47,Fall,2.7,2-Day Shipping,No,No,21,Weekly
+1533,68,Male,Jacket,Outerwear,46,Winter,4.4,Next Day Air,Yes,Yes,5,Every 3 Months
+508,65,Male,Shorts,Clothing,20,Spring,5,Store Pickup,Yes,Yes,33,Fortnightly
+458,25,Male,Gloves,Accessories,99,Spring,4.9,Next Day Air,Yes,Yes,48,Every 3 Months
+1264,41,Male,Hoodie,Clothing,70,Winter,4.6,2-Day Shipping,Yes,Yes,1,Bi-Weekly
+832,66,Male,Gloves,Accessories,63,Summer,4.3,Express,Yes,Yes,47,Every 3 Months
+757,62,Male,Belt,Accessories,99,Summer,4.8,Standard,Yes,Yes,24,Fortnightly
+1581,65,Male,Sneakers,Footwear,71,Summer,3.7,Standard,Yes,Yes,30,Annually
+431,24,Male,Shirt,Clothing,40,Summer,3.5,Store Pickup,Yes,Yes,40,Annually
+1035,68,Male,Socks,Clothing,29,Fall,4.2,Next Day Air,Yes,Yes,44,Weekly
+1188,56,Male,Hat,Accessories,89,Fall,3,Express,Yes,Yes,37,Every 3 Months
+2596,29,Male,Blouse,Clothing,56,Summer,3.2,Free Shipping,No,No,3,Bi-Weekly
+1090,40,Male,Backpack,Accessories,61,Spring,3.8,Next Day Air,Yes,Yes,33,Bi-Weekly
+260,32,Male,Jeans,Clothing,57,Fall,2.9,Standard,Yes,Yes,13,Annually
+97,32,Male,Gloves,Accessories,73,Spring,3.6,Express,Yes,Yes,43,Every 3 Months
+252,21,Male,Handbag,Accessories,51,Winter,2.5,Standard,Yes,Yes,34,Annually
+2116,44,Male,Scarf,Accessories,85,Winter,3.4,Store Pickup,No,No,16,Bi-Weekly
+2524,43,Male,Handbag,Accessories,24,Spring,3.4,Express,No,No,21,Annually
+756,66,Male,Coat,Outerwear,24,Spring,3.3,Free Shipping,Yes,Yes,22,Weekly
+1588,41,Male,Socks,Clothing,99,Summer,3.5,Free Shipping,Yes,Yes,33,Fortnightly
+1162,63,Male,Shorts,Clothing,52,Fall,3.1,2-Day Shipping,Yes,Yes,37,Monthly
+962,62,Male,Boots,Footwear,72,Fall,3.7,Next Day Air,Yes,Yes,37,Quarterly
+2406,69,Male,Jeans,Clothing,97,Fall,5,Standard,No,No,5,Quarterly
+2051,35,Male,Hat,Accessories,96,Summer,3.4,Store Pickup,No,No,10,Annually
+1941,50,Male,Hat,Accessories,89,Fall,3.9,2-Day Shipping,No,No,48,Fortnightly
+658,48,Male,Jacket,Outerwear,80,Winter,4.3,Free Shipping,Yes,Yes,6,Quarterly
+1463,38,Male,Sneakers,Footwear,90,Summer,4.8,2-Day Shipping,Yes,Yes,2,Quarterly
+1548,46,Male,Hat,Accessories,46,Summer,3.5,Standard,Yes,Yes,40,Quarterly
+2442,45,Male,Jewelry,Accessories,36,Fall,4.7,Free Shipping,No,No,5,Monthly
+2311,30,Male,Gloves,Accessories,68,Spring,4.6,Standard,No,No,15,Monthly
+2626,30,Male,Skirt,Clothing,51,Summer,2.7,Standard,No,No,31,Weekly
+507,28,Male,Scarf,Accessories,40,Fall,2.7,2-Day Shipping,Yes,Yes,48,Annually
+496,33,Male,Handbag,Accessories,36,Fall,3.3,Free Shipping,Yes,Yes,6,Fortnightly
+946,38,Male,Boots,Footwear,38,Summer,4.1,Store Pickup,Yes,Yes,8,Every 3 Months
+2273,29,Male,Jacket,Outerwear,38,Spring,4,Standard,No,No,44,Monthly
+1504,50,Male,Jacket,Outerwear,30,Fall,3.9,2-Day Shipping,Yes,Yes,46,Quarterly
+2454,21,Male,Sweater,Clothing,95,Spring,4.6,Store Pickup,No,No,13,Annually
+1895,42,Male,Hoodie,Clothing,90,Fall,2.5,Free Shipping,No,No,48,Bi-Weekly
+1024,61,Male,Sunglasses,Accessories,71,Winter,3.5,Free Shipping,Yes,Yes,29,Every 3 Months
+522,36,Male,Shorts,Clothing,41,Winter,3.5,Standard,Yes,Yes,50,Annually
+2368,66,Male,Socks,Clothing,85,Winter,3.4,Standard,No,No,28,Bi-Weekly
+1115,55,Male,Skirt,Clothing,25,Fall,2.6,Next Day Air,Yes,Yes,47,Every 3 Months
+1933,42,Male,Hoodie,Clothing,36,Spring,5,Free Shipping,No,No,47,Every 3 Months
+2457,59,Male,Jeans,Clothing,83,Winter,3.3,2-Day Shipping,No,No,5,Monthly
+31,57,Male,Jewelry,Accessories,31,Winter,4.7,Standard,Yes,Yes,16,Monthly
+1773,58,Male,Shoes,Footwear,34,Summer,3.1,2-Day Shipping,No,No,1,Annually
+2420,26,Male,Sweater,Clothing,40,Fall,2.7,Next Day Air,No,No,11,Every 3 Months
+1456,60,Male,Pants,Clothing,79,Fall,4.9,Express,Yes,Yes,1,Every 3 Months
+1379,37,Male,Jacket,Outerwear,49,Fall,3.6,Free Shipping,Yes,Yes,24,Weekly
+457,50,Male,Blouse,Clothing,96,Fall,4,2-Day Shipping,Yes,Yes,33,Quarterly
+2359,53,Male,Sweater,Clothing,93,Spring,3.8,Standard,No,No,38,Quarterly
+2361,49,Male,Handbag,Accessories,80,Fall,4.7,2-Day Shipping,No,No,27,Every 3 Months
+68,45,Male,Coat,Outerwear,33,Winter,4.4,Store Pickup,Yes,Yes,49,Monthly
+1059,29,Male,Scarf,Accessories,33,Summer,3.1,Next Day Air,Yes,Yes,49,Every 3 Months
+1814,40,Male,Shorts,Clothing,62,Spring,3.5,Free Shipping,No,No,24,Weekly
+1689,28,Male,Handbag,Accessories,26,Winter,3,Next Day Air,No,No,13,Fortnightly
+1747,65,Male,Handbag,Accessories,44,Summer,3.1,Store Pickup,No,No,44,Fortnightly
+409,34,Male,Sneakers,Footwear,66,Spring,3.4,Express,Yes,Yes,36,Fortnightly
+2058,66,Male,Socks,Clothing,37,Spring,4.2,Standard,No,No,5,Every 3 Months
+238,50,Male,Dress,Clothing,90,Summer,3,Store Pickup,Yes,Yes,36,Fortnightly
+1737,57,Male,Shorts,Clothing,61,Summer,2.6,2-Day Shipping,No,No,43,Quarterly
+2214,54,Male,Hat,Accessories,94,Fall,2.9,Express,No,No,18,Quarterly
+110,58,Male,T-shirt,Clothing,85,Spring,2.6,Next Day Air,Yes,Yes,43,Fortnightly
+1290,35,Male,Jacket,Outerwear,24,Fall,2.9,Next Day Air,Yes,Yes,10,Weekly
+2222,25,Male,Shorts,Clothing,88,Fall,3,Free Shipping,No,No,34,Annually
+1625,38,Male,Sweater,Clothing,32,Winter,3.6,Free Shipping,Yes,Yes,40,Every 3 Months
+164,54,Male,Skirt,Clothing,67,Summer,3.4,Standard,Yes,Yes,8,Weekly
+1648,34,Male,Boots,Footwear,78,Summer,4.9,Store Pickup,Yes,Yes,8,Quarterly
+1426,59,Male,Coat,Outerwear,40,Winter,3.7,Next Day Air,Yes,Yes,39,Annually
+253,32,Male,Shorts,Clothing,41,Summer,3.9,Free Shipping,Yes,Yes,33,Fortnightly
+1943,63,Male,Pants,Clothing,28,Fall,3.4,Express,No,No,22,Monthly
+1314,70,Male,Shoes,Footwear,28,Summer,2.6,Free Shipping,Yes,Yes,23,Bi-Weekly
+2303,36,Male,Belt,Accessories,39,Summer,3.6,Store Pickup,No,No,38,Monthly
+2081,29,Male,Sunglasses,Accessories,47,Fall,3.5,Free Shipping,No,No,17,Bi-Weekly
+1818,32,Male,T-shirt,Clothing,27,Summer,4.7,Free Shipping,No,No,20,Weekly
+2113,43,Male,Belt,Accessories,68,Fall,4.5,2-Day Shipping,No,No,7,Fortnightly
+1430,24,Male,Skirt,Clothing,38,Fall,4.7,Standard,Yes,Yes,6,Every 3 Months
+1847,68,Male,Scarf,Accessories,53,Summer,2.9,Standard,No,No,9,Quarterly
+1991,32,Male,Backpack,Accessories,95,Spring,3.4,2-Day Shipping,No,No,15,Annually
+790,33,Male,Handbag,Accessories,84,Fall,2.7,Standard,Yes,Yes,4,Bi-Weekly
+2059,29,Male,Shirt,Clothing,98,Winter,3.3,Store Pickup,No,No,17,Quarterly
+663,24,Male,Gloves,Accessories,98,Fall,2.8,Express,Yes,Yes,39,Bi-Weekly
+528,21,Male,T-shirt,Clothing,23,Winter,4.3,Next Day Air,Yes,Yes,47,Every 3 Months
+799,29,Male,Socks,Clothing,39,Spring,3.8,2-Day Shipping,Yes,Yes,48,Every 3 Months
+1772,46,Male,Shirt,Clothing,82,Fall,4.7,Store Pickup,No,No,9,Annually
+839,33,Male,Coat,Outerwear,29,Spring,4.3,Express,Yes,Yes,49,Annually
+519,24,Male,Blouse,Clothing,100,Fall,2.9,Next Day Air,Yes,Yes,16,Every 3 Months
+2122,43,Male,Backpack,Accessories,68,Winter,3.5,2-Day Shipping,No,No,32,Monthly
+1000,50,Male,Socks,Clothing,28,Spring,2.9,Standard,Yes,Yes,23,Monthly
+730,41,Male,Sunglasses,Accessories,56,Summer,3.2,Express,Yes,Yes,46,Every 3 Months
+1012,43,Male,Backpack,Accessories,25,Spring,2.9,Next Day Air,Yes,Yes,32,Fortnightly
+545,34,Male,Sandals,Footwear,64,Summer,3.3,Standard,Yes,Yes,30,Every 3 Months
+1107,52,Male,Skirt,Clothing,96,Winter,3.6,Store Pickup,Yes,Yes,12,Fortnightly
+938,32,Male,Shorts,Clothing,24,Summer,2.7,Express,Yes,Yes,18,Quarterly
+2399,65,Male,Jacket,Outerwear,81,Winter,4.3,Free Shipping,No,No,44,Fortnightly
+565,67,Male,Hoodie,Clothing,58,Winter,3.4,Next Day Air,Yes,Yes,30,Weekly
+1957,70,Male,Socks,Clothing,37,Winter,4.9,Express,No,No,20,Fortnightly
+486,48,Male,Shoes,Footwear,44,Spring,2.6,Next Day Air,Yes,Yes,36,Fortnightly
+2437,52,Male,T-shirt,Clothing,24,Fall,2.7,Store Pickup,No,No,38,Quarterly
+101,62,Male,Sunglasses,Accessories,98,Fall,2.7,Express,Yes,Yes,31,Fortnightly
+316,66,Male,Jewelry,Accessories,24,Spring,4.5,Express,Yes,Yes,24,Annually
+2240,42,Male,Jewelry,Accessories,96,Summer,3.8,2-Day Shipping,No,No,41,Every 3 Months
+1412,48,Male,Skirt,Clothing,24,Summer,2.8,Store Pickup,Yes,Yes,13,Quarterly
+813,64,Male,Boots,Footwear,56,Summer,3.2,Standard,Yes,Yes,32,Weekly
+1731,23,Male,Shirt,Clothing,22,Fall,4.2,Free Shipping,No,No,26,Weekly
+1615,30,Male,T-shirt,Clothing,41,Summer,3.4,Free Shipping,Yes,Yes,22,Bi-Weekly
+262,21,Male,Jeans,Clothing,77,Winter,4.9,Standard,Yes,Yes,21,Annually
+606,40,Male,Hat,Accessories,32,Winter,4.2,Standard,Yes,Yes,17,Weekly
+1646,53,Male,Scarf,Accessories,36,Summer,2.8,Standard,Yes,Yes,36,Every 3 Months
+1270,43,Male,Jewelry,Accessories,53,Spring,3,Standard,Yes,Yes,47,Quarterly
+618,50,Male,Backpack,Accessories,57,Fall,2.6,Standard,Yes,Yes,2,Quarterly
+2130,40,Male,Skirt,Clothing,57,Fall,2.8,Store Pickup,No,No,12,Every 3 Months
+180,64,Male,Boots,Footwear,31,Fall,4.9,Store Pickup,Yes,Yes,9,Fortnightly
+323,41,Male,Belt,Accessories,95,Winter,3,Standard,Yes,Yes,47,Monthly
+655,24,Male,Handbag,Accessories,59,Summer,4.4,2-Day Shipping,Yes,Yes,23,Annually
+1911,29,Male,Sandals,Footwear,38,Fall,3.8,Express,No,No,13,Quarterly
+835,52,Male,Backpack,Accessories,89,Summer,3.1,Free Shipping,Yes,Yes,18,Weekly
+1428,31,Male,Backpack,Accessories,90,Summer,4.9,Store Pickup,Yes,Yes,8,Annually
+680,56,Male,Sandals,Footwear,95,Fall,3.4,Express,Yes,Yes,37,Fortnightly
+791,22,Male,Sweater,Clothing,37,Summer,4.9,Store Pickup,Yes,Yes,12,Quarterly
+822,62,Male,Hoodie,Clothing,39,Spring,3.9,Standard,Yes,Yes,31,Bi-Weekly
+694,46,Male,Shorts,Clothing,52,Spring,3.1,Free Shipping,Yes,Yes,30,Every 3 Months
+2073,39,Male,Backpack,Accessories,66,Winter,3.9,Next Day Air,No,No,22,Weekly
+292,57,Male,Dress,Clothing,26,Fall,3.3,Next Day Air,Yes,Yes,40,Monthly
+142,56,Male,Gloves,Accessories,46,Fall,4.9,Free Shipping,Yes,Yes,45,Weekly
+1353,65,Male,Hat,Accessories,89,Spring,4.5,Next Day Air,Yes,Yes,37,Bi-Weekly
+1150,21,Male,Jewelry,Accessories,42,Spring,3.3,Store Pickup,Yes,Yes,40,Annually
+1222,18,Male,Socks,Clothing,69,Winter,4.5,Standard,Yes,Yes,3,Quarterly
+1095,25,Male,Jewelry,Accessories,40,Winter,4.8,Next Day Air,Yes,Yes,25,Quarterly
+1628,69,Male,Sunglasses,Accessories,21,Winter,2.9,Next Day Air,Yes,Yes,8,Annually
+1048,31,Male,Socks,Clothing,36,Fall,4.2,Standard,Yes,Yes,7,Fortnightly
+2642,25,Male,Sunglasses,Accessories,60,Winter,2.7,Next Day Air,No,No,20,Every 3 Months
+1564,68,Male,Pants,Clothing,44,Fall,4.3,Next Day Air,Yes,Yes,8,Weekly
+1356,59,Male,Shorts,Clothing,91,Summer,3,2-Day Shipping,Yes,Yes,50,Bi-Weekly
+2267,20,Male,Dress,Clothing,44,Fall,4.3,Store Pickup,No,No,32,Weekly
+569,44,Male,Pants,Clothing,88,Summer,4,Free Shipping,Yes,Yes,36,Monthly
+1407,32,Male,Shirt,Clothing,46,Spring,3.6,Express,Yes,Yes,15,Monthly
+1506,46,Male,Belt,Accessories,20,Summer,3,Express,Yes,Yes,39,Monthly
+2446,63,Male,Scarf,Accessories,96,Summer,4.1,Store Pickup,No,No,50,Weekly
+621,33,Male,Backpack,Accessories,89,Fall,3.7,2-Day Shipping,Yes,Yes,10,Every 3 Months
+248,29,Male,Sweater,Clothing,66,Spring,4.4,Standard,Yes,Yes,14,Weekly
+1101,50,Male,Pants,Clothing,28,Spring,4.4,Express,Yes,Yes,2,Weekly
+481,68,Male,Hoodie,Clothing,88,Summer,4.8,Standard,Yes,Yes,30,Bi-Weekly
+1702,69,Male,Handbag,Accessories,41,Winter,3.8,Next Day Air,No,No,44,Every 3 Months
+573,56,Male,Scarf,Accessories,97,Summer,4.6,Next Day Air,Yes,Yes,26,Annually
+1673,18,Male,Boots,Footwear,73,Fall,3.8,Free Shipping,Yes,Yes,15,Quarterly
+1134,36,Male,Shoes,Footwear,36,Winter,4.1,2-Day Shipping,Yes,Yes,29,Weekly
+348,36,Male,Sandals,Footwear,41,Fall,3.9,Store Pickup,Yes,Yes,43,Fortnightly
+2292,28,Male,Coat,Outerwear,30,Spring,5,2-Day Shipping,No,No,13,Quarterly
+1362,49,Male,Dress,Clothing,32,Fall,3.7,Next Day Air,Yes,Yes,39,Monthly
+30,31,Male,Dress,Clothing,48,Fall,4.1,Store Pickup,Yes,Yes,14,Weekly
+679,27,Male,Blouse,Clothing,74,Fall,3.3,Store Pickup,Yes,Yes,25,Every 3 Months
+862,46,Male,Skirt,Clothing,100,Spring,3.3,2-Day Shipping,Yes,Yes,35,Every 3 Months
+1787,45,Male,Jacket,Outerwear,34,Spring,4.6,2-Day Shipping,No,No,22,Monthly
+136,43,Male,Sandals,Footwear,81,Fall,4.1,Express,Yes,Yes,12,Quarterly
+1421,22,Male,Jeans,Clothing,53,Summer,4.6,Store Pickup,Yes,Yes,45,Every 3 Months
+487,38,Male,Sandals,Footwear,63,Fall,2.8,Store Pickup,Yes,Yes,37,Every 3 Months
+2259,24,Male,T-shirt,Clothing,71,Winter,4.3,Store Pickup,No,No,44,Every 3 Months
+1730,47,Male,Shorts,Clothing,21,Winter,3.8,Store Pickup,No,No,12,Fortnightly
+2323,39,Male,Coat,Outerwear,84,Spring,4.5,Store Pickup,No,No,21,Fortnightly
+1337,23,Male,Sneakers,Footwear,85,Spring,4.8,Store Pickup,Yes,Yes,44,Fortnightly
+2056,28,Male,Handbag,Accessories,33,Fall,3.4,2-Day Shipping,No,No,28,Weekly
+158,36,Male,Hat,Accessories,68,Fall,3,Next Day Air,Yes,Yes,1,Fortnightly
+446,42,Male,Boots,Footwear,29,Fall,4.9,Standard,Yes,Yes,18,Annually
+651,34,Male,Gloves,Accessories,40,Spring,3.9,Next Day Air,Yes,Yes,12,Annually
+1482,64,Male,Skirt,Clothing,33,Spring,3.3,Standard,Yes,Yes,31,Quarterly
+1877,54,Male,Skirt,Clothing,36,Fall,2.6,Standard,No,No,20,Quarterly
+913,24,Male,Hoodie,Clothing,56,Winter,3.4,Next Day Air,Yes,Yes,32,Monthly
+2402,43,Male,Boots,Footwear,76,Winter,4.2,Standard,No,No,25,Bi-Weekly
+1227,53,Male,Sandals,Footwear,91,Fall,3.4,Store Pickup,Yes,Yes,18,Bi-Weekly
+333,19,Male,Shirt,Clothing,86,Winter,2.8,2-Day Shipping,Yes,Yes,5,Monthly
+2257,31,Male,Blouse,Clothing,22,Fall,5,Standard,No,No,33,Quarterly
+820,55,Male,Sunglasses,Accessories,36,Winter,4.8,Next Day Air,Yes,Yes,28,Quarterly
+3331,38,Female,Sneakers,Footwear,96,Spring,3.2,2-Day Shipping,No,No,41,Quarterly
+3532,54,Female,Shoes,Footwear,52,Winter,4.6,2-Day Shipping,No,No,23,Quarterly
+3553,22,Female,Sunglasses,Accessories,66,Winter,2.9,Next Day Air,No,No,3,Quarterly
+2896,56,Female,Hoodie,Clothing,86,Summer,4.6,Standard,No,No,29,Monthly
+2981,70,Female,Gloves,Accessories,93,Fall,4.4,2-Day Shipping,No,No,9,Monthly
+3114,46,Female,Shirt,Clothing,93,Summer,2.6,Express,No,No,2,Weekly
+2907,58,Female,Coat,Outerwear,27,Spring,3.9,Standard,No,No,7,Annually
+2734,31,Female,Backpack,Accessories,83,Summer,4.7,Express,No,No,46,Annually
+2696,50,Female,Hat,Accessories,92,Fall,3.6,Standard,No,No,10,Bi-Weekly
+3603,58,Female,Skirt,Clothing,36,Summer,3.3,Store Pickup,No,No,40,Quarterly
+3798,68,Female,Sunglasses,Accessories,44,Summer,2.5,Next Day Air,No,No,20,Quarterly
+3314,55,Female,Hat,Accessories,30,Fall,3.9,Express,No,No,45,Monthly
+3508,46,Female,Handbag,Accessories,65,Spring,4.2,Store Pickup,No,No,33,Every 3 Months
+2861,28,Female,Shirt,Clothing,38,Spring,2.9,Next Day Air,No,No,49,Weekly
+3583,23,Female,Shorts,Clothing,41,Summer,3.4,2-Day Shipping,No,No,15,Annually
+3051,31,Female,Coat,Outerwear,76,Spring,3.6,Standard,No,No,28,Every 3 Months
+3701,28,Female,Handbag,Accessories,84,Summer,3.4,Store Pickup,No,No,2,Every 3 Months
+3836,58,Female,Sandals,Footwear,58,Winter,2.6,Express,No,No,28,Bi-Weekly
+3396,44,Female,Dress,Clothing,43,Winter,3.1,Free Shipping,No,No,15,Every 3 Months
+3866,25,Female,Shorts,Clothing,42,Spring,4.2,Store Pickup,No,No,28,Every 3 Months
+3627,69,Female,Blouse,Clothing,98,Fall,3.5,Express,No,No,32,Quarterly
+3320,23,Female,Shorts,Clothing,31,Summer,4.3,Next Day Air,No,No,17,Every 3 Months
+3751,42,Female,Hoodie,Clothing,88,Fall,3.1,Free Shipping,No,No,5,Monthly
+3325,37,Female,T-shirt,Clothing,32,Fall,3.3,Standard,No,No,41,Weekly
+3043,53,Female,Coat,Outerwear,27,Winter,2.9,Next Day Air,No,No,14,Every 3 Months
+3270,27,Female,Blouse,Clothing,60,Winter,4.9,Express,No,No,25,Monthly
+2849,33,Female,Boots,Footwear,72,Fall,4.9,Store Pickup,No,No,28,Quarterly
+3282,27,Female,Pants,Clothing,69,Winter,3.1,Free Shipping,No,No,41,Annually
+3861,57,Female,Sunglasses,Accessories,64,Summer,4.4,Next Day Air,No,No,44,Annually
+3638,32,Female,Boots,Footwear,66,Winter,3.6,Express,No,No,32,Fortnightly
+3236,27,Female,Belt,Accessories,68,Summer,4,Free Shipping,No,No,18,Monthly
+3449,18,Female,Coat,Outerwear,28,Winter,4.1,Express,No,No,32,Fortnightly
+2845,32,Female,Hat,Accessories,79,Summer,4.4,Standard,No,No,42,Annually
+3104,27,Female,Shirt,Clothing,37,Winter,3,2-Day Shipping,No,No,42,Weekly
+3853,65,Female,Hat,Accessories,79,Fall,4,2-Day Shipping,No,No,19,Weekly
+3143,23,Female,Sneakers,Footwear,21,Winter,4,2-Day Shipping,No,No,1,Quarterly
+3076,54,Female,Shorts,Clothing,90,Winter,3.6,Standard,No,No,21,Every 3 Months
+2947,38,Female,Pants,Clothing,77,Spring,2.8,Free Shipping,No,No,29,Quarterly
+3035,51,Female,Boots,Footwear,37,Spring,3.5,2-Day Shipping,No,No,25,Quarterly
+2821,26,Female,Backpack,Accessories,89,Summer,3.9,Free Shipping,No,No,5,Bi-Weekly
+3592,48,Female,Jacket,Outerwear,89,Winter,3.2,2-Day Shipping,No,No,38,Quarterly
+3700,51,Female,Backpack,Accessories,55,Fall,2.6,Store Pickup,No,No,24,Weekly
+3030,64,Female,Dress,Clothing,82,Summer,3.1,Free Shipping,No,No,1,Quarterly
+3645,35,Female,Blouse,Clothing,32,Winter,2.6,Next Day Air,No,No,18,Weekly
+3690,47,Female,Jewelry,Accessories,30,Fall,4.5,Standard,No,No,8,Quarterly
+3318,21,Female,Hat,Accessories,67,Summer,4.7,Standard,No,No,30,Quarterly
+3274,58,Female,Belt,Accessories,45,Summer,2.6,Free Shipping,No,No,34,Every 3 Months
+3083,56,Female,T-shirt,Clothing,99,Spring,4,Next Day Air,No,No,20,Annually
+3424,33,Female,Boots,Footwear,71,Spring,3.8,Next Day Air,No,No,21,Bi-Weekly
+3206,40,Female,Hoodie,Clothing,24,Fall,4.4,2-Day Shipping,No,No,50,Every 3 Months
+3600,37,Female,Scarf,Accessories,34,Spring,4.6,Express,No,No,4,Weekly
+3761,65,Female,Socks,Clothing,80,Fall,3.1,Next Day Air,No,No,36,Weekly
+3370,47,Female,Sweater,Clothing,51,Winter,3.8,2-Day Shipping,No,No,42,Monthly
+2702,49,Female,Sweater,Clothing,30,Summer,2.8,Store Pickup,No,No,18,Fortnightly
+3540,29,Female,Jewelry,Accessories,56,Spring,3.2,Express,No,No,17,Bi-Weekly
+2912,28,Female,Socks,Clothing,38,Fall,2.9,Next Day Air,No,No,34,Quarterly
+3471,19,Female,Coat,Outerwear,69,Summer,4.5,Free Shipping,No,No,31,Bi-Weekly
+3390,38,Female,Pants,Clothing,57,Fall,3.8,Free Shipping,No,No,39,Annually
+3307,63,Female,Jacket,Outerwear,39,Summer,3.6,Store Pickup,No,No,6,Fortnightly
+3321,66,Female,Blouse,Clothing,44,Fall,4.2,2-Day Shipping,No,No,45,Every 3 Months
+3271,59,Female,Socks,Clothing,25,Winter,4.7,Express,No,No,48,Annually
+2731,23,Female,Gloves,Accessories,32,Winter,4.1,Store Pickup,No,No,37,Annually
+2716,25,Female,Sneakers,Footwear,92,Winter,4.1,Express,No,No,29,Fortnightly
+3652,20,Female,Handbag,Accessories,32,Spring,3.8,Express,No,No,5,Every 3 Months
+3487,51,Female,Shorts,Clothing,89,Winter,4.9,Standard,No,No,6,Weekly
+3611,18,Female,Jacket,Outerwear,86,Fall,4.8,2-Day Shipping,No,No,23,Fortnightly
+2956,42,Female,Boots,Footwear,67,Winter,2.6,Free Shipping,No,No,46,Annually
+2823,61,Female,Skirt,Clothing,37,Fall,4.1,Standard,No,No,33,Quarterly
+3726,18,Female,Dress,Clothing,100,Winter,4.4,Next Day Air,No,No,2,Annually
+2729,26,Female,Skirt,Clothing,28,Winter,4,Express,No,No,17,Weekly
+3440,43,Female,Gloves,Accessories,93,Summer,4.5,Express,No,No,25,Quarterly
+3326,29,Female,Sandals,Footwear,97,Fall,3.7,2-Day Shipping,No,No,16,Monthly
+2781,33,Female,Boots,Footwear,70,Winter,4.1,Next Day Air,No,No,29,Fortnightly
+3888,40,Female,Shirt,Clothing,34,Spring,2.7,Express,No,No,1,Quarterly
+3187,38,Female,Jewelry,Accessories,93,Winter,4.8,Store Pickup,No,No,43,Annually
+2950,25,Female,Jewelry,Accessories,93,Spring,3.8,Store Pickup,No,No,15,Annually
+3238,61,Female,T-shirt,Clothing,57,Summer,2.8,Express,No,No,4,Weekly
+3602,34,Female,T-shirt,Clothing,47,Summer,3,Next Day Air,No,No,3,Monthly
+3368,44,Female,T-shirt,Clothing,48,Summer,3.1,Store Pickup,No,No,6,Fortnightly
+3263,42,Female,T-shirt,Clothing,35,Spring,2.7,Standard,No,No,21,Every 3 Months
+3438,22,Female,Jacket,Outerwear,62,Winter,3.5,2-Day Shipping,No,No,50,Annually
+3394,60,Female,Dress,Clothing,90,Fall,3.1,Next Day Air,No,No,50,Monthly
+2697,57,Female,Coat,Outerwear,20,Spring,4.7,Free Shipping,No,No,12,Monthly
+3384,27,Female,Coat,Outerwear,43,Fall,2.6,Next Day Air,No,No,39,Bi-Weekly
+2961,57,Female,Coat,Outerwear,48,Spring,3.6,Standard,No,No,47,Weekly
+3848,60,Female,Sweater,Clothing,34,Fall,3.2,2-Day Shipping,No,No,31,Fortnightly
+2684,68,Female,Backpack,Accessories,30,Summer,4.2,Next Day Air,No,No,21,Fortnightly
+3716,63,Female,Sunglasses,Accessories,34,Fall,3.4,Free Shipping,No,No,2,Monthly
+3011,70,Female,Belt,Accessories,45,Winter,3.3,Free Shipping,No,No,15,Annually
+3062,33,Female,T-shirt,Clothing,59,Fall,4.5,Express,No,No,20,Every 3 Months
+2776,37,Female,Socks,Clothing,25,Fall,3.6,Free Shipping,No,No,16,Weekly
+2739,50,Female,Sneakers,Footwear,81,Summer,4.3,2-Day Shipping,No,No,39,Every 3 Months
+3413,61,Female,Sandals,Footwear,83,Fall,3.8,Store Pickup,No,No,31,Quarterly
+3346,28,Female,Handbag,Accessories,91,Summer,4,2-Day Shipping,No,No,3,Bi-Weekly
+3213,27,Female,Sneakers,Footwear,22,Winter,3.6,2-Day Shipping,No,No,21,Weekly
+2754,69,Female,Gloves,Accessories,59,Spring,3.6,Next Day Air,No,No,48,Quarterly
+3075,26,Female,Boots,Footwear,55,Winter,4.2,Next Day Air,No,No,34,Fortnightly
+3886,49,Female,Socks,Clothing,64,Winter,3.2,Free Shipping,No,No,39,Quarterly
+3214,27,Female,Sunglasses,Accessories,56,Winter,3.3,Standard,No,No,33,Monthly
+2871,47,Female,Jewelry,Accessories,34,Winter,4.8,Free Shipping,No,No,49,Every 3 Months
+2962,33,Female,Hoodie,Clothing,43,Fall,2.8,Free Shipping,No,No,21,Bi-Weekly
+2951,22,Female,Jeans,Clothing,91,Winter,4.1,2-Day Shipping,No,No,44,Every 3 Months
+2942,38,Female,Skirt,Clothing,86,Spring,3.7,Free Shipping,No,No,27,Monthly
+3672,62,Female,Handbag,Accessories,66,Summer,4.8,2-Day Shipping,No,No,20,Quarterly
+3234,45,Female,Belt,Accessories,74,Fall,3.8,Express,No,No,11,Bi-Weekly
+2766,64,Female,Gloves,Accessories,70,Summer,4.3,2-Day Shipping,No,No,24,Quarterly
+3201,67,Female,Socks,Clothing,24,Spring,4.8,Free Shipping,No,No,32,Monthly
+3359,56,Female,T-shirt,Clothing,59,Fall,3.4,2-Day Shipping,No,No,26,Annually
+3500,22,Female,Socks,Clothing,29,Fall,3,Next Day Air,No,No,13,Every 3 Months
+3715,18,Female,Hat,Accessories,31,Winter,3.9,Express,No,No,35,Weekly
+2827,32,Female,Handbag,Accessories,43,Fall,3.6,Express,No,No,23,Annually
+3302,36,Female,Pants,Clothing,58,Summer,2.5,Free Shipping,No,No,31,Fortnightly
+3188,67,Female,Blouse,Clothing,72,Winter,3.2,Free Shipping,No,No,28,Weekly
+3632,48,Female,Hat,Accessories,50,Fall,2.9,Store Pickup,No,No,26,Monthly
+2873,63,Female,Jewelry,Accessories,48,Fall,2.6,Next Day Air,No,No,5,Annually
+3893,35,Female,Jewelry,Accessories,86,Summer,3.5,Standard,No,No,5,Fortnightly
+2997,70,Female,Jewelry,Accessories,91,Spring,2.9,Express,No,No,6,Every 3 Months
+2704,56,Female,Scarf,Accessories,42,Winter,4.4,Free Shipping,No,No,34,Weekly
+2723,23,Female,Hat,Accessories,83,Spring,2.8,2-Day Shipping,No,No,22,Fortnightly
+3092,68,Female,Dress,Clothing,81,Winter,3.4,2-Day Shipping,No,No,46,Annually
+2676,24,Female,Shorts,Clothing,38,Winter,3.4,Free Shipping,No,No,38,Bi-Weekly
+3296,70,Female,Blouse,Clothing,34,Summer,2.8,Next Day Air,No,No,15,Weekly
+2808,56,Female,Hoodie,Clothing,100,Spring,4.4,2-Day Shipping,No,No,10,Fortnightly
+3335,66,Female,Shirt,Clothing,23,Summer,3.4,Free Shipping,No,No,21,Annually
+2760,68,Female,Shoes,Footwear,59,Summer,3.9,Free Shipping,No,No,42,Every 3 Months
+2711,69,Female,Jacket,Outerwear,51,Summer,4.7,Standard,No,No,3,Fortnightly
+3821,34,Female,Belt,Accessories,65,Winter,5,Standard,No,No,34,Quarterly
+3630,52,Female,T-shirt,Clothing,43,Summer,4.5,Standard,No,No,44,Fortnightly
+3297,20,Female,Blouse,Clothing,23,Spring,4.2,Next Day Air,No,No,47,Quarterly
+3722,62,Female,Coat,Outerwear,60,Fall,4,Next Day Air,No,No,10,Annually
+3614,58,Female,Hat,Accessories,27,Fall,3.5,Store Pickup,No,No,40,Annually
+3100,42,Female,Shirt,Clothing,98,Fall,2.9,Free Shipping,No,No,21,Bi-Weekly
+3818,66,Female,Scarf,Accessories,91,Fall,2.6,Express,No,No,40,Annually
+3024,50,Female,Backpack,Accessories,31,Summer,2.9,Express,No,No,4,Quarterly
+3809,33,Female,Socks,Clothing,28,Winter,4.7,Express,No,No,6,Bi-Weekly
+3376,51,Female,Boots,Footwear,98,Fall,4.9,Express,No,No,8,Annually
+3759,61,Female,Sandals,Footwear,54,Spring,2.7,Store Pickup,No,No,23,Quarterly
+3455,55,Female,Handbag,Accessories,71,Fall,4.6,Store Pickup,No,No,15,Bi-Weekly
+2918,58,Female,Shirt,Clothing,45,Winter,2.9,Store Pickup,No,No,50,Annually
+2900,50,Female,Boots,Footwear,64,Spring,4.2,2-Day Shipping,No,No,22,Fortnightly
+3138,34,Female,Coat,Outerwear,44,Spring,2.7,2-Day Shipping,No,No,14,Monthly
+2707,24,Female,Shoes,Footwear,40,Spring,3.1,Express,No,No,48,Quarterly
+3534,50,Female,Sneakers,Footwear,98,Fall,4.7,Standard,No,No,30,Fortnightly
+3332,55,Female,Sunglasses,Accessories,58,Summer,3.5,Free Shipping,No,No,39,Quarterly
+2709,57,Female,Dress,Clothing,94,Summer,3.3,Store Pickup,No,No,44,Weekly
+2762,31,Female,Sneakers,Footwear,82,Fall,3.4,Next Day Air,No,No,3,Every 3 Months
+3405,69,Female,Gloves,Accessories,34,Fall,3.9,2-Day Shipping,No,No,34,Annually
+3617,42,Female,Hoodie,Clothing,23,Winter,3.3,Store Pickup,No,No,33,Fortnightly
+3579,46,Female,Shoes,Footwear,22,Winter,2.6,Standard,No,No,22,Quarterly
+2930,31,Female,Socks,Clothing,53,Winter,4.5,Next Day Air,No,No,42,Fortnightly
+3131,52,Female,Pants,Clothing,20,Summer,4.5,Store Pickup,No,No,34,Every 3 Months
+3194,63,Female,Gloves,Accessories,99,Winter,4,Express,No,No,35,Fortnightly
+3689,52,Female,Sunglasses,Accessories,91,Spring,3,Next Day Air,No,No,8,Monthly
+2985,45,Female,Gloves,Accessories,32,Spring,4.3,2-Day Shipping,No,No,36,Bi-Weekly
+3547,60,Female,Scarf,Accessories,79,Summer,3.6,Free Shipping,No,No,37,Bi-Weekly
+3479,36,Female,Handbag,Accessories,57,Fall,4.6,Store Pickup,No,No,42,Quarterly
+3894,21,Female,Hat,Accessories,64,Fall,3.3,Store Pickup,No,No,29,Bi-Weekly
+3204,63,Female,Coat,Outerwear,29,Spring,4.1,Express,No,No,14,Annually
+2986,46,Female,Belt,Accessories,36,Summer,3,Express,No,No,21,Bi-Weekly
+3464,27,Female,Jewelry,Accessories,27,Fall,2.8,2-Day Shipping,No,No,45,Fortnightly
+3357,39,Female,Jeans,Clothing,48,Summer,3.5,Store Pickup,No,No,13,Bi-Weekly
+3088,62,Female,Shirt,Clothing,84,Spring,3.1,Free Shipping,No,No,29,Monthly
+3574,43,Female,Jeans,Clothing,67,Fall,4.9,Free Shipping,No,No,27,Monthly
+3380,61,Female,Handbag,Accessories,51,Summer,5,Store Pickup,No,No,40,Weekly
+3875,70,Female,Sweater,Clothing,54,Summer,3.9,2-Day Shipping,No,No,33,Bi-Weekly
+3003,70,Female,Belt,Accessories,29,Fall,3.6,Next Day Air,No,No,19,Quarterly
+3545,64,Female,Socks,Clothing,55,Fall,3.6,2-Day Shipping,No,No,42,Every 3 Months
+3760,44,Female,Sneakers,Footwear,61,Spring,3.5,Store Pickup,No,No,30,Quarterly
+2999,31,Female,Hoodie,Clothing,53,Summer,4.7,Express,No,No,30,Quarterly
+3231,49,Female,Sneakers,Footwear,49,Summer,2.5,Next Day Air,No,No,38,Annually
+3399,54,Female,Jeans,Clothing,60,Winter,3.8,Standard,No,No,44,Fortnightly
+3862,64,Female,Jacket,Outerwear,57,Spring,4.9,Standard,No,No,49,Monthly
+2862,66,Female,Coat,Outerwear,54,Fall,3.4,Free Shipping,No,No,27,Monthly
+3167,19,Female,Shirt,Clothing,80,Winter,2.7,Next Day Air,No,No,37,Fortnightly
+3078,60,Female,Sweater,Clothing,88,Spring,3,Store Pickup,No,No,33,Bi-Weekly
+3499,47,Female,Sandals,Footwear,35,Summer,3.8,Standard,No,No,2,Bi-Weekly
+3478,53,Female,Handbag,Accessories,85,Spring,3.8,Store Pickup,No,No,38,Bi-Weekly
+2851,57,Female,Sweater,Clothing,79,Spring,3,Store Pickup,No,No,36,Annually
+3242,50,Female,Handbag,Accessories,58,Summer,4.4,Store Pickup,No,No,30,Quarterly
+2893,22,Female,Dress,Clothing,39,Spring,3.2,Standard,No,No,47,Monthly
+2863,68,Female,Coat,Outerwear,75,Summer,4.7,Store Pickup,No,No,5,Every 3 Months
+3662,63,Female,Sandals,Footwear,39,Winter,3.5,Next Day Air,No,No,5,Fortnightly
+3277,39,Female,Scarf,Accessories,99,Summer,4,Store Pickup,No,No,41,Every 3 Months
+2663,25,Female,Skirt,Clothing,98,Summer,2.8,2-Day Shipping,No,No,44,Fortnightly
+2800,23,Female,T-shirt,Clothing,89,Spring,3.9,Free Shipping,No,No,9,Every 3 Months
+3649,31,Female,Skirt,Clothing,67,Winter,5,Free Shipping,No,No,45,Bi-Weekly
+3834,44,Female,Jacket,Outerwear,93,Summer,4.6,Free Shipping,No,No,17,Every 3 Months
+3772,21,Female,T-shirt,Clothing,86,Winter,2.6,Express,No,No,28,Bi-Weekly
+3459,68,Female,Jewelry,Accessories,37,Spring,3.4,Standard,No,No,24,Quarterly
+3333,27,Female,T-shirt,Clothing,23,Summer,3.1,2-Day Shipping,No,No,1,Bi-Weekly
+3287,45,Female,Jacket,Outerwear,67,Winter,5,Express,No,No,4,Fortnightly
+3492,22,Female,Pants,Clothing,28,Winter,4.3,Express,No,No,15,Monthly
+3643,47,Female,Dress,Clothing,71,Summer,4.4,Store Pickup,No,No,5,Annually
+3434,62,Female,Socks,Clothing,93,Spring,4.5,Free Shipping,No,No,28,Annually
+2943,54,Female,Socks,Clothing,63,Summer,2.6,Free Shipping,No,No,37,Weekly
+3496,24,Female,Shorts,Clothing,33,Spring,2.8,Free Shipping,No,No,14,Weekly
+3618,48,Female,Belt,Accessories,47,Fall,4.3,Express,No,No,29,Monthly
+3546,48,Female,Sandals,Footwear,28,Spring,3.7,2-Day Shipping,No,No,22,Annually
+3694,66,Female,Blouse,Clothing,46,Summer,4.7,2-Day Shipping,No,No,10,Weekly
+3077,66,Female,Handbag,Accessories,46,Summer,3.6,Express,No,No,13,Bi-Weekly
+3195,43,Female,Sneakers,Footwear,52,Summer,4.6,Standard,No,No,10,Bi-Weekly
+2788,36,Female,Boots,Footwear,79,Spring,4.1,Next Day Air,No,No,4,Fortnightly
+3181,18,Female,Handbag,Accessories,88,Fall,3.8,Standard,No,No,46,Weekly
+2886,29,Female,Backpack,Accessories,82,Summer,3.5,Next Day Air,No,No,14,Bi-Weekly
+3120,63,Female,Sandals,Footwear,79,Winter,4.7,2-Day Shipping,No,No,21,Every 3 Months
+3068,70,Female,Belt,Accessories,22,Spring,3.5,Free Shipping,No,No,2,Weekly
+3020,19,Female,Jacket,Outerwear,44,Winter,3.9,2-Day Shipping,No,No,15,Annually
+2959,55,Female,Skirt,Clothing,100,Summer,4.5,Standard,No,No,28,Monthly
+2811,27,Female,Jeans,Clothing,31,Summer,4,Standard,No,No,10,Fortnightly
+2793,54,Female,Shorts,Clothing,44,Winter,3.2,Express,No,No,11,Weekly
+3117,50,Female,Coat,Outerwear,66,Spring,3.7,Store Pickup,No,No,1,Weekly
+3541,24,Female,Shorts,Clothing,95,Spring,4.6,Free Shipping,No,No,5,Weekly
+3220,57,Female,Coat,Outerwear,40,Summer,3.5,2-Day Shipping,No,No,39,Weekly
+3330,34,Female,Backpack,Accessories,54,Winter,3.8,Express,No,No,1,Bi-Weekly
+3734,25,Female,Socks,Clothing,58,Fall,4.7,Next Day Air,No,No,6,Every 3 Months
+2923,45,Female,Sunglasses,Accessories,68,Winter,3.5,Express,No,No,16,Quarterly
+2949,61,Female,Pants,Clothing,83,Winter,3.1,Standard,No,No,38,Bi-Weekly
+2718,18,Female,Sunglasses,Accessories,62,Winter,4.3,Free Shipping,No,No,19,Every 3 Months
+3863,56,Female,Shirt,Clothing,49,Winter,2.8,Next Day Air,No,No,9,Monthly
+3770,51,Female,Gloves,Accessories,87,Summer,3.6,Standard,No,No,31,Annually
+3561,18,Female,Socks,Clothing,96,Fall,3.5,Express,No,No,5,Annually
+3130,60,Female,Sandals,Footwear,20,Summer,4.7,Express,No,No,40,Every 3 Months
+2965,44,Female,Coat,Outerwear,25,Fall,3.8,2-Day Shipping,No,No,13,Fortnightly
+2749,24,Female,Jacket,Outerwear,98,Spring,3,Free Shipping,No,No,16,Annually
+2837,51,Female,Pants,Clothing,50,Winter,5,2-Day Shipping,No,No,21,Bi-Weekly
+2938,28,Female,Handbag,Accessories,39,Spring,4.3,2-Day Shipping,No,No,15,Weekly
+2884,22,Female,Socks,Clothing,48,Spring,3.2,Standard,No,No,10,Weekly
+2816,33,Female,Blouse,Clothing,67,Fall,3.9,Free Shipping,No,No,40,Every 3 Months
+3115,21,Female,Handbag,Accessories,56,Spring,4.7,Store Pickup,No,No,45,Bi-Weekly
+2874,44,Female,Sweater,Clothing,40,Spring,2.6,Free Shipping,No,No,8,Monthly
+3766,22,Female,Jewelry,Accessories,52,Summer,4.3,Standard,No,No,14,Bi-Weekly
+2809,49,Female,Skirt,Clothing,62,Spring,3.9,Free Shipping,No,No,45,Every 3 Months
+3014,41,Female,Skirt,Clothing,55,Summer,4.2,Store Pickup,No,No,13,Monthly
+3284,47,Female,Jacket,Outerwear,24,Spring,2.9,Express,No,No,10,Every 3 Months
+3693,59,Female,Coat,Outerwear,34,Spring,4.8,Free Shipping,No,No,29,Fortnightly
+2939,28,Female,Sunglasses,Accessories,53,Fall,3,Standard,No,No,15,Monthly
+2852,58,Female,Blouse,Clothing,73,Summer,3,Store Pickup,No,No,42,Monthly
+3686,47,Female,Shorts,Clothing,42,Summer,2.6,Standard,No,No,17,Bi-Weekly
+3703,58,Female,Shoes,Footwear,65,Spring,2.7,Store Pickup,No,No,36,Weekly
+3515,25,Female,Sneakers,Footwear,50,Winter,4.7,Express,No,No,32,Monthly
+2976,61,Female,Scarf,Accessories,68,Winter,4.5,2-Day Shipping,No,No,48,Every 3 Months
+3095,22,Female,Sandals,Footwear,59,Summer,2.7,Store Pickup,No,No,9,Weekly
+2897,30,Female,Blouse,Clothing,91,Summer,3.3,Free Shipping,No,No,2,Every 3 Months
+3034,22,Female,Sweater,Clothing,56,Spring,2.6,Store Pickup,No,No,9,Weekly
+3829,42,Female,Blouse,Clothing,82,Spring,3.4,Free Shipping,No,No,8,Weekly
+3226,53,Female,Blouse,Clothing,98,Fall,3,Store Pickup,No,No,31,Weekly
+3707,26,Female,Sandals,Footwear,55,Spring,4,Store Pickup,No,No,17,Bi-Weekly
+3587,33,Female,Hoodie,Clothing,28,Winter,4.6,Store Pickup,No,No,12,Bi-Weekly
+3845,30,Female,Shorts,Clothing,87,Fall,5,Next Day Air,No,No,40,Quarterly
+3005,45,Female,Skirt,Clothing,79,Winter,3.7,Store Pickup,No,No,23,Fortnightly
+3577,29,Female,Boots,Footwear,24,Spring,3,Express,No,No,12,Bi-Weekly
+3814,61,Female,Pants,Clothing,89,Summer,4.1,Express,No,No,31,Bi-Weekly
+3765,36,Female,Socks,Clothing,21,Fall,3.5,Next Day Air,No,No,19,Monthly
+3659,28,Female,T-shirt,Clothing,72,Fall,4.6,Standard,No,No,18,Fortnightly
+3684,30,Female,Socks,Clothing,77,Winter,3,Free Shipping,No,No,17,Fortnightly
+3787,31,Female,Boots,Footwear,47,Fall,3.6,2-Day Shipping,No,No,22,Weekly
+3258,44,Female,Shirt,Clothing,98,Fall,3.3,Express,No,No,39,Every 3 Months
+3358,41,Female,Hoodie,Clothing,67,Winter,3.5,Free Shipping,No,No,37,Monthly
+3205,57,Female,Jacket,Outerwear,92,Fall,4.3,Free Shipping,No,No,23,Bi-Weekly
+3543,62,Female,Coat,Outerwear,28,Spring,4.2,Express,No,No,5,Weekly
+2831,63,Female,Skirt,Clothing,90,Spring,2.9,Store Pickup,No,No,13,Every 3 Months
+3150,18,Female,Belt,Accessories,40,Winter,4.6,Free Shipping,No,No,9,Annually
+3584,52,Female,Blouse,Clothing,77,Summer,2.7,Store Pickup,No,No,44,Every 3 Months
+2928,45,Female,Shirt,Clothing,24,Summer,2.7,Express,No,No,15,Bi-Weekly
+3249,22,Female,T-shirt,Clothing,79,Summer,4.2,Free Shipping,No,No,41,Quarterly
+3864,40,Female,Scarf,Accessories,35,Summer,3.3,Free Shipping,No,No,28,Fortnightly
+2741,19,Female,Sunglasses,Accessories,70,Summer,4.9,Free Shipping,No,No,34,Fortnightly
+3304,20,Female,Belt,Accessories,60,Summer,3.4,Next Day Air,No,No,4,Fortnightly
+3562,63,Female,Sneakers,Footwear,29,Spring,3.4,Standard,No,No,39,Fortnightly
+3058,67,Female,Backpack,Accessories,22,Spring,3.4,Next Day Air,No,No,26,Weekly
+3106,48,Female,Skirt,Clothing,33,Fall,2.7,Express,No,No,17,Monthly
+3383,34,Female,Sweater,Clothing,35,Spring,2.8,Express,No,No,2,Weekly
+3465,36,Female,Coat,Outerwear,59,Winter,2.7,Next Day Air,No,No,12,Annually
+3833,64,Female,Boots,Footwear,38,Winter,4.8,2-Day Shipping,No,No,27,Weekly
+2984,60,Female,Pants,Clothing,44,Winter,2.8,2-Day Shipping,No,No,1,Quarterly
+2919,19,Female,Sunglasses,Accessories,73,Fall,4.9,Free Shipping,No,No,36,Weekly
+2712,30,Female,Sunglasses,Accessories,22,Spring,4,Standard,No,No,50,Monthly
+3172,68,Female,Jewelry,Accessories,26,Spring,3.1,Express,No,No,26,Bi-Weekly
+3409,48,Female,Socks,Clothing,72,Summer,4.4,Standard,No,No,11,Annually
+3754,39,Female,Sunglasses,Accessories,26,Winter,4.2,Next Day Air,No,No,22,Fortnightly
+3815,45,Female,Dress,Clothing,95,Winter,4.2,Free Shipping,No,No,26,Every 3 Months
+3660,27,Female,Sandals,Footwear,77,Fall,4.9,Store Pickup,No,No,46,Annually
+3398,19,Female,Blouse,Clothing,38,Summer,2.7,Standard,No,No,13,Bi-Weekly
+3147,21,Female,Shirt,Clothing,83,Winter,4.9,Free Shipping,No,No,19,Annually
+2980,31,Female,Jeans,Clothing,91,Fall,2.6,Next Day Air,No,No,14,Weekly
+3064,26,Female,Sunglasses,Accessories,43,Winter,3.9,Store Pickup,No,No,24,Fortnightly
+3361,22,Female,Jacket,Outerwear,81,Spring,3.3,2-Day Shipping,No,No,47,Every 3 Months
+3033,26,Female,Backpack,Accessories,58,Summer,3.5,Next Day Air,No,No,24,Quarterly
+3677,19,Female,Jewelry,Accessories,94,Spring,4.9,Free Shipping,No,No,16,Monthly
+2736,46,Female,Skirt,Clothing,29,Spring,3,Express,No,No,2,Bi-Weekly
+2782,65,Female,Sandals,Footwear,39,Spring,4.6,Standard,No,No,33,Weekly
+3323,52,Female,Sweater,Clothing,92,Winter,4.6,Next Day Air,No,No,43,Weekly
+3461,41,Female,Scarf,Accessories,78,Spring,3.1,Express,No,No,5,Bi-Weekly
+3629,53,Female,Blouse,Clothing,88,Summer,3.8,Free Shipping,No,No,35,Monthly
+3510,50,Female,T-shirt,Clothing,22,Winter,4.3,Next Day Air,No,No,43,Bi-Weekly
+2913,48,Female,Shoes,Footwear,37,Winter,4,Standard,No,No,27,Bi-Weekly
+3228,28,Female,Scarf,Accessories,69,Fall,2.7,Free Shipping,No,No,42,Quarterly
+3241,56,Female,Sandals,Footwear,37,Fall,3.8,2-Day Shipping,No,No,37,Monthly
+3606,68,Female,Jeans,Clothing,41,Fall,4.3,Store Pickup,No,No,36,Every 3 Months
+3552,66,Female,Gloves,Accessories,31,Spring,2.6,Store Pickup,No,No,20,Weekly
+2791,34,Female,Socks,Clothing,63,Spring,4.5,Free Shipping,No,No,24,Annually
+2945,50,Female,Sneakers,Footwear,95,Summer,3.9,Free Shipping,No,No,4,Every 3 Months
+3655,21,Female,Jewelry,Accessories,98,Winter,3.3,Next Day Air,No,No,10,Annually
+2794,37,Female,Boots,Footwear,57,Spring,3.1,Standard,No,No,27,Bi-Weekly
+3243,45,Female,Socks,Clothing,74,Fall,2.8,Express,No,No,17,Weekly
+3741,42,Female,Pants,Clothing,96,Summer,2.6,Store Pickup,No,No,26,Bi-Weekly
+3460,68,Female,Hoodie,Clothing,37,Fall,3.8,Express,No,No,21,Annually
+2792,43,Female,Gloves,Accessories,60,Fall,2.8,Express,No,No,14,Fortnightly
+3441,45,Female,Handbag,Accessories,63,Fall,4.3,2-Day Shipping,No,No,2,Weekly
+3563,47,Female,Sneakers,Footwear,36,Winter,3.4,Free Shipping,No,No,7,Weekly
+2877,65,Female,Hoodie,Clothing,84,Spring,3.4,2-Day Shipping,No,No,5,Fortnightly
+3247,70,Female,Sneakers,Footwear,98,Summer,2.9,Store Pickup,No,No,37,Monthly
+2927,64,Female,Handbag,Accessories,82,Winter,4.8,2-Day Shipping,No,No,9,Weekly
+3597,28,Female,Hoodie,Clothing,83,Spring,4.3,Standard,No,No,44,Fortnightly
+3196,68,Female,Sunglasses,Accessories,58,Spring,4.9,Next Day Air,No,No,36,Quarterly
+3029,62,Female,Dress,Clothing,100,Summer,3,Free Shipping,No,No,7,Every 3 Months
+3527,20,Female,Sweater,Clothing,99,Spring,3.8,Express,No,No,1,Every 3 Months
+3073,26,Female,Jewelry,Accessories,98,Spring,3.1,Standard,No,No,46,Quarterly
+3268,37,Female,Hoodie,Clothing,45,Winter,3,Store Pickup,No,No,42,Quarterly
+3319,45,Female,Jacket,Outerwear,46,Summer,3.9,Free Shipping,No,No,15,Monthly
+3373,56,Female,Socks,Clothing,25,Winter,4.6,Free Shipping,No,No,14,Every 3 Months
+3466,19,Female,Backpack,Accessories,53,Spring,3.4,Standard,No,No,31,Weekly
+3186,52,Female,Skirt,Clothing,71,Fall,4.7,Express,No,No,6,Annually
+3275,46,Female,Sweater,Clothing,20,Spring,3.9,Store Pickup,No,No,14,Fortnightly
+2995,69,Female,Sweater,Clothing,100,Winter,3.5,Store Pickup,No,No,14,Quarterly
+3176,35,Female,Socks,Clothing,42,Fall,3.4,Store Pickup,No,No,26,Every 3 Months
+3589,23,Female,Sunglasses,Accessories,55,Spring,3.5,2-Day Shipping,No,No,40,Annually
+2974,25,Female,Boots,Footwear,65,Summer,2.7,Store Pickup,No,No,3,Fortnightly
+3008,23,Female,Sunglasses,Accessories,60,Winter,3,Next Day Air,No,No,31,Weekly
+3867,58,Female,Hat,Accessories,32,Winter,3.3,2-Day Shipping,No,No,33,Fortnightly
+3565,60,Female,Gloves,Accessories,38,Summer,4.4,Free Shipping,No,No,40,Annually
+3425,33,Female,Scarf,Accessories,64,Summer,3.6,2-Day Shipping,No,No,23,Monthly
+2692,43,Female,Pants,Clothing,25,Winter,3.3,2-Day Shipping,No,No,48,Monthly
+2683,59,Female,Sneakers,Footwear,65,Winter,3.9,2-Day Shipping,No,No,5,Every 3 Months
+2895,35,Female,Jewelry,Accessories,32,Spring,3.5,Standard,No,No,41,Annually
+3159,30,Female,Jewelry,Accessories,77,Winter,4.9,2-Day Shipping,No,No,44,Monthly
+2789,56,Female,Boots,Footwear,92,Summer,3.1,Free Shipping,No,No,2,Annually
+2963,57,Female,Pants,Clothing,40,Fall,4,Express,No,No,42,Every 3 Months
+3692,63,Female,Sandals,Footwear,21,Summer,4.8,Next Day Air,No,No,24,Weekly
+3207,36,Female,Boots,Footwear,52,Winter,3,Free Shipping,No,No,49,Monthly
+3752,36,Female,Jewelry,Accessories,97,Fall,4.2,Free Shipping,No,No,8,Every 3 Months
+3892,36,Female,Dress,Clothing,30,Winter,4.7,Free Shipping,No,No,6,Quarterly
+2656,26,Female,Sunglasses,Accessories,83,Summer,3.4,Standard,No,No,2,Fortnightly
+2764,28,Female,Handbag,Accessories,52,Fall,2.9,2-Day Shipping,No,No,35,Quarterly
+3303,36,Female,Blouse,Clothing,82,Winter,4.2,Standard,No,No,31,Bi-Weekly
+3728,41,Female,Socks,Clothing,83,Summer,3.5,Next Day Air,No,No,17,Bi-Weekly
+3360,43,Female,Sunglasses,Accessories,74,Fall,3.9,Next Day Air,No,No,29,Monthly
+3542,59,Female,Blouse,Clothing,66,Winter,4,Next Day Air,No,No,22,Annually
+3456,49,Female,T-shirt,Clothing,89,Fall,4.7,Standard,No,No,13,Annually
+3377,22,Female,Hat,Accessories,46,Winter,4.1,Store Pickup,No,No,24,Quarterly
+2967,52,Female,Boots,Footwear,49,Fall,2.8,Store Pickup,No,No,38,Every 3 Months
+3647,69,Female,Jewelry,Accessories,68,Spring,5,2-Day Shipping,No,No,39,Fortnightly
+2972,30,Female,Handbag,Accessories,100,Fall,3.9,Next Day Air,No,No,9,Every 3 Months
+3663,69,Female,Shorts,Clothing,80,Spring,4.9,Next Day Air,No,No,11,Weekly
+3066,49,Female,Jacket,Outerwear,59,Fall,2.8,Store Pickup,No,No,7,Bi-Weekly
+2658,52,Female,Dress,Clothing,81,Summer,2.7,Express,No,No,7,Fortnightly
+2753,48,Female,Sweater,Clothing,64,Winter,4,Free Shipping,No,No,30,Bi-Weekly
+3430,27,Female,Skirt,Clothing,96,Winter,4.6,Express,No,No,34,Weekly
+3885,47,Female,Sandals,Footwear,29,Fall,4.9,Express,No,No,3,Weekly
+3182,31,Female,Jacket,Outerwear,51,Summer,4.4,Free Shipping,No,No,27,Every 3 Months
+3682,26,Female,Gloves,Accessories,73,Fall,4.2,Next Day Air,No,No,33,Monthly
+3016,37,Female,Scarf,Accessories,21,Spring,2.8,Express,No,No,27,Bi-Weekly
+3366,43,Female,Skirt,Clothing,58,Fall,3.9,Express,No,No,45,Every 3 Months
+3018,58,Female,Sunglasses,Accessories,71,Summer,3.3,Next Day Air,No,No,24,Bi-Weekly
+2880,62,Female,Blouse,Clothing,57,Winter,4.9,Free Shipping,No,No,31,Annually
+3047,60,Female,Shoes,Footwear,49,Spring,3.2,Store Pickup,No,No,25,Every 3 Months
+3345,62,Female,Hat,Accessories,48,Fall,4.3,Free Shipping,No,No,20,Annually
+3898,46,Female,Belt,Accessories,33,Spring,2.9,Standard,No,No,24,Quarterly
+3313,55,Female,Sneakers,Footwear,75,Summer,3.9,Next Day Air,No,No,45,Quarterly
+2719,22,Female,Shorts,Clothing,90,Winter,4.9,Next Day Air,No,No,10,Bi-Weekly
+2720,69,Female,Hoodie,Clothing,82,Fall,4.2,Free Shipping,No,No,4,Monthly
+3890,57,Female,Dress,Clothing,65,Spring,3.5,Express,No,No,49,Annually
+2864,37,Female,T-shirt,Clothing,56,Fall,3.9,2-Day Shipping,No,No,18,Monthly
+2665,22,Female,Jewelry,Accessories,84,Winter,3.2,Store Pickup,No,No,37,Weekly
+3202,46,Female,Pants,Clothing,38,Fall,2.8,2-Day Shipping,No,No,34,Monthly
+3369,30,Female,Sandals,Footwear,25,Spring,4.8,Express,No,No,29,Every 3 Months
+2952,47,Female,Scarf,Accessories,99,Fall,4.6,Free Shipping,No,No,14,Weekly
+3139,47,Female,Blouse,Clothing,95,Fall,4.6,Next Day Air,No,No,40,Every 3 Months
+3518,29,Female,Skirt,Clothing,69,Winter,3.1,Next Day Air,No,No,34,Every 3 Months
+3771,23,Female,Pants,Clothing,42,Summer,4,Store Pickup,No,No,34,Weekly
+3721,21,Female,Hat,Accessories,56,Fall,3.6,Free Shipping,No,No,13,Quarterly
+3788,37,Female,Blouse,Clothing,80,Fall,3.6,2-Day Shipping,No,No,46,Every 3 Months
+3835,43,Female,Hoodie,Clothing,59,Winter,4.1,2-Day Shipping,No,No,17,Quarterly
+3795,44,Female,Scarf,Accessories,82,Summer,3.6,2-Day Shipping,No,No,27,Weekly
+3528,25,Female,Blouse,Clothing,97,Spring,4.7,Free Shipping,No,No,1,Weekly
+3388,53,Female,Pants,Clothing,78,Spring,3.4,2-Day Shipping,No,No,2,Bi-Weekly
+3817,29,Female,Coat,Outerwear,86,Summer,4.3,Store Pickup,No,No,45,Fortnightly
+3664,65,Female,Backpack,Accessories,59,Summer,4.4,Express,No,No,49,Weekly
+3266,40,Female,Sunglasses,Accessories,100,Winter,3.2,Express,No,No,28,Fortnightly
+3731,46,Female,Shirt,Clothing,79,Summer,2.5,2-Day Shipping,No,No,3,Bi-Weekly
+2926,54,Female,Sweater,Clothing,91,Spring,2.8,Store Pickup,No,No,43,Every 3 Months
+3081,69,Female,Hoodie,Clothing,42,Spring,4.1,Next Day Air,No,No,5,Bi-Weekly
+3015,24,Female,T-shirt,Clothing,65,Spring,4.5,Express,No,No,38,Every 3 Months
+2890,64,Female,Sunglasses,Accessories,43,Fall,3.3,Store Pickup,No,No,21,Annually
+3560,18,Female,Shorts,Clothing,25,Fall,3,Next Day Air,No,No,13,Every 3 Months
+2655,23,Female,Coat,Outerwear,70,Fall,4.1,Next Day Air,No,No,4,Annually
+2659,52,Female,Handbag,Accessories,47,Summer,3.2,Next Day Air,No,No,39,Monthly
+3134,58,Female,T-shirt,Clothing,68,Spring,4.1,Next Day Air,No,No,29,Bi-Weekly
+2964,52,Female,Boots,Footwear,97,Spring,3.6,Free Shipping,No,No,28,Weekly
+3723,23,Female,Jacket,Outerwear,34,Fall,4,Standard,No,No,1,Fortnightly
+3828,62,Female,Jewelry,Accessories,73,Summer,4.1,Standard,No,No,47,Fortnightly
+3189,42,Female,Blouse,Clothing,59,Winter,3.5,Standard,No,No,39,Monthly
+3594,63,Female,Sandals,Footwear,80,Spring,4.6,Next Day Air,No,No,24,Monthly
+3586,39,Female,Gloves,Accessories,41,Winter,4.1,Standard,No,No,4,Bi-Weekly
+2868,21,Female,Sneakers,Footwear,55,Summer,4.9,Next Day Air,No,No,33,Fortnightly
+3091,29,Female,Shirt,Clothing,36,Summer,4.9,Store Pickup,No,No,15,Quarterly
+2680,53,Female,Shorts,Clothing,68,Spring,3.8,Express,No,No,7,Quarterly
+3855,57,Female,T-shirt,Clothing,20,Spring,4.2,Free Shipping,No,No,4,Annually
+3082,64,Female,Sneakers,Footwear,44,Winter,4.9,Next Day Air,No,No,11,Weekly
+3080,48,Female,Belt,Accessories,31,Fall,4,Store Pickup,No,No,4,Annually
+3498,35,Female,Handbag,Accessories,48,Spring,4.3,Store Pickup,No,No,16,Every 3 Months
+3179,66,Female,Sandals,Footwear,34,Spring,2.7,Free Shipping,No,No,28,Annually
+3601,67,Female,Dress,Clothing,81,Spring,2.7,Free Shipping,No,No,25,Bi-Weekly
+3840,66,Female,Sandals,Footwear,29,Spring,3.9,Free Shipping,No,No,14,Quarterly
+3232,62,Female,Shoes,Footwear,97,Winter,4.4,Free Shipping,No,No,9,Annually
+3007,37,Female,Dress,Clothing,99,Summer,3.7,Store Pickup,No,No,17,Bi-Weekly
+3745,24,Female,Hoodie,Clothing,51,Summer,2.7,Next Day Air,No,No,26,Fortnightly
+3146,57,Female,Handbag,Accessories,29,Spring,4.6,Standard,No,No,16,Fortnightly
+2909,43,Female,Blouse,Clothing,87,Winter,3.1,Store Pickup,No,No,15,Every 3 Months
+2944,29,Female,Shirt,Clothing,44,Spring,3.4,Standard,No,No,37,Monthly
+2678,45,Female,Shorts,Clothing,43,Spring,3.8,Next Day Air,No,No,6,Every 3 Months
+2989,69,Female,Socks,Clothing,55,Spring,5,2-Day Shipping,No,No,31,Monthly
+3800,60,Female,Jacket,Outerwear,26,Winter,2.6,Store Pickup,No,No,13,Monthly
+2700,25,Female,Boots,Footwear,96,Fall,3.6,2-Day Shipping,No,No,49,Annually
+2971,24,Female,Jewelry,Accessories,74,Winter,3.4,Free Shipping,No,No,44,Bi-Weekly
+2759,32,Female,Blouse,Clothing,98,Summer,3.2,Standard,No,No,8,Bi-Weekly
+3522,52,Female,Shoes,Footwear,50,Winter,3.7,Store Pickup,No,No,35,Weekly
+2708,32,Female,Backpack,Accessories,88,Fall,4.2,Standard,No,No,19,Weekly
+3219,37,Female,Skirt,Clothing,34,Fall,3.9,Express,No,No,49,Monthly
+2866,28,Female,Skirt,Clothing,97,Fall,3.7,Free Shipping,No,No,27,Fortnightly
+2773,18,Female,Backpack,Accessories,94,Spring,3.5,Store Pickup,No,No,10,Every 3 Months
+3262,48,Female,Belt,Accessories,52,Winter,3.4,Store Pickup,No,No,50,Weekly
+3132,34,Female,Jacket,Outerwear,59,Fall,2.9,Store Pickup,No,No,11,Every 3 Months
+3348,22,Female,Shoes,Footwear,70,Summer,4.4,Standard,No,No,28,Bi-Weekly
+2725,52,Female,Sneakers,Footwear,91,Spring,2.5,Next Day Air,No,No,11,Fortnightly
+3063,51,Female,Backpack,Accessories,96,Fall,3.3,Standard,No,No,39,Monthly
+3324,54,Female,Handbag,Accessories,78,Winter,3.8,Free Shipping,No,No,4,Monthly
+3462,51,Female,Shoes,Footwear,23,Spring,4.4,Standard,No,No,47,Quarterly
+3385,39,Female,Hoodie,Clothing,24,Summer,3.8,Free Shipping,No,No,9,Quarterly
+3085,46,Female,Scarf,Accessories,37,Spring,3.2,Store Pickup,No,No,43,Monthly
+3329,42,Female,Sandals,Footwear,35,Spring,3.2,Free Shipping,No,No,11,Bi-Weekly
+3755,46,Female,Shoes,Footwear,41,Summer,4.4,Express,No,No,10,Every 3 Months
+3504,31,Female,Shirt,Clothing,96,Spring,3.9,Free Shipping,No,No,39,Weekly
+3251,23,Female,Coat,Outerwear,90,Spring,2.9,2-Day Shipping,No,No,15,Weekly
+3644,53,Female,Scarf,Accessories,96,Fall,3.2,Standard,No,No,47,Annually
+3786,64,Female,Jeans,Clothing,94,Winter,3.8,Standard,No,No,6,Monthly
+3198,27,Female,Sweater,Clothing,71,Spring,3.2,Free Shipping,No,No,29,Every 3 Months
+2978,38,Female,Shorts,Clothing,47,Winter,3.4,Standard,No,No,20,Annually
+3763,65,Female,Shorts,Clothing,94,Fall,2.9,Store Pickup,No,No,13,Annually
+3658,58,Female,Shoes,Footwear,82,Winter,3.7,Express,No,No,1,Every 3 Months
+2969,26,Female,Sweater,Clothing,48,Fall,4.9,Express,No,No,25,Every 3 Months
+3512,69,Female,Jewelry,Accessories,81,Summer,3.9,2-Day Shipping,No,No,21,Every 3 Months
+3554,62,Female,Shoes,Footwear,99,Spring,4.9,Free Shipping,No,No,32,Weekly
+3225,37,Female,Hoodie,Clothing,80,Winter,2.7,Free Shipping,No,No,18,Monthly
+3392,47,Female,Hoodie,Clothing,57,Fall,3.7,2-Day Shipping,No,No,6,Every 3 Months
+3718,45,Female,T-shirt,Clothing,85,Summer,4.2,Express,No,No,47,Every 3 Months
+3281,45,Female,Handbag,Accessories,57,Winter,2.7,Next Day Air,No,No,5,Monthly
+3811,46,Female,Skirt,Clothing,79,Fall,3.9,Free Shipping,No,No,29,Monthly
+2713,37,Female,Jacket,Outerwear,95,Fall,4.6,Standard,No,No,7,Quarterly
+3086,24,Female,Sweater,Clothing,50,Winter,2.8,Store Pickup,No,No,10,Every 3 Months
+3433,36,Female,Boots,Footwear,44,Summer,4.8,2-Day Shipping,No,No,46,Every 3 Months
+2745,38,Female,Shirt,Clothing,66,Winter,3.3,Store Pickup,No,No,40,Monthly
+3588,33,Female,Sweater,Clothing,90,Summer,4.4,Standard,No,No,33,Annually
+3118,43,Female,Hoodie,Clothing,50,Fall,3,Free Shipping,No,No,4,Bi-Weekly
+3004,51,Female,Blouse,Clothing,53,Fall,2.8,Express,No,No,13,Every 3 Months
+3668,51,Female,Pants,Clothing,45,Fall,2.6,Next Day Air,No,No,20,Monthly
+2933,65,Female,Backpack,Accessories,88,Spring,3.9,Express,No,No,3,Quarterly
+3436,68,Female,Socks,Clothing,91,Summer,2.7,2-Day Shipping,No,No,50,Bi-Weekly
+3252,25,Female,Coat,Outerwear,20,Winter,3.7,Standard,No,No,39,Quarterly
+3012,20,Female,Belt,Accessories,70,Summer,3,Next Day Air,No,No,18,Every 3 Months
+3876,63,Female,Hat,Accessories,51,Winter,3.3,2-Day Shipping,No,No,21,Annually
+3246,63,Female,Pants,Clothing,76,Fall,3.2,Next Day Air,No,No,20,Weekly
+3559,68,Female,Backpack,Accessories,94,Summer,4.8,Standard,No,No,9,Quarterly
+3223,45,Female,Sunglasses,Accessories,84,Fall,4.6,Store Pickup,No,No,22,Quarterly
+3135,35,Female,Boots,Footwear,66,Spring,4.4,Store Pickup,No,No,47,Weekly
+3191,41,Female,Jeans,Clothing,78,Fall,3.4,Free Shipping,No,No,5,Fortnightly
+3585,39,Female,Sneakers,Footwear,52,Fall,4.8,Express,No,No,48,Monthly
+2835,39,Female,Jacket,Outerwear,43,Fall,2.9,2-Day Shipping,No,No,17,Weekly
+3791,27,Female,Handbag,Accessories,45,Summer,4.4,Standard,No,No,31,Weekly
+3166,49,Female,Jacket,Outerwear,92,Spring,3,Store Pickup,No,No,38,Every 3 Months
+2763,58,Female,T-shirt,Clothing,41,Fall,3.8,Store Pickup,No,No,10,Every 3 Months
+3023,58,Female,Sandals,Footwear,26,Fall,4,Free Shipping,No,No,23,Weekly
+3111,19,Female,Handbag,Accessories,46,Fall,4.6,Next Day Air,No,No,2,Bi-Weekly
+2892,47,Female,T-shirt,Clothing,73,Winter,2.5,Free Shipping,No,No,10,Monthly
+3732,54,Female,Hat,Accessories,62,Spring,3.1,2-Day Shipping,No,No,45,Quarterly
+3812,46,Female,Belt,Accessories,30,Winter,4,Standard,No,No,14,Monthly
+3743,56,Female,Shirt,Clothing,80,Fall,4.4,Standard,No,No,50,Bi-Weekly
+2857,65,Female,Jacket,Outerwear,48,Winter,3.5,2-Day Shipping,No,No,31,Monthly
+3887,37,Female,Jewelry,Accessories,92,Summer,3.9,Express,No,No,40,Quarterly
+3529,38,Female,Scarf,Accessories,67,Summer,4.5,Free Shipping,No,No,33,Annually
+2914,43,Female,Coat,Outerwear,83,Winter,3.5,Express,No,No,12,Every 3 Months
+3769,50,Female,Sweater,Clothing,35,Winter,4,Free Shipping,No,No,34,Quarterly
+3354,31,Female,Dress,Clothing,66,Fall,4.6,Free Shipping,No,No,19,Every 3 Months
+3211,30,Female,Socks,Clothing,67,Summer,2.9,Express,No,No,43,Bi-Weekly
+2992,66,Female,Dress,Clothing,71,Summer,3.9,Standard,No,No,7,Bi-Weekly
+3374,70,Female,Sandals,Footwear,52,Spring,3.5,Store Pickup,No,No,12,Every 3 Months
+3250,26,Female,Backpack,Accessories,83,Summer,3.4,Express,No,No,32,Quarterly
+3180,57,Female,Shorts,Clothing,88,Spring,4.3,Free Shipping,No,No,12,Bi-Weekly
+2836,33,Female,T-shirt,Clothing,84,Winter,4.9,Free Shipping,No,No,7,Annually
+2790,28,Female,Sweater,Clothing,85,Fall,5,Express,No,No,28,Bi-Weekly
